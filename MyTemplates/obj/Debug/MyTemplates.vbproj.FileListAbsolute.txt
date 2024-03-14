@@ -1,0 +1,22 @@
+C:\Users\Sylvster\Desktop\CGMEA\MyTemplates\bin\Debug\MyTemplates.exe
+C:\Users\Sylvster\Desktop\CGMEA\MyTemplates\bin\Debug\MyTemplates.pdb
+C:\Users\Sylvster\Desktop\CGMEA\MyTemplates\bin\Debug\MyTemplates.xml
+C:\Users\Sylvster\Desktop\CGMEA\MyTemplates\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\CGMEA\MyTemplates\obj\Debug\MyTemplates.Form1.resources
+C:\Users\Sylvster\Desktop\CGMEA\MyTemplates\obj\Debug\MyTemplates.Resources.resources
+C:\Users\Sylvster\Desktop\CGMEA\MyTemplates\obj\Debug\MyTemplates.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\CGMEA\MyTemplates\obj\Debug\MyTemplates.exe.licenses
+C:\Users\Sylvster\Desktop\CGMEA\MyTemplates\obj\Debug\MyTemplates.exe
+C:\Users\Sylvster\Desktop\CGMEA\MyTemplates\obj\Debug\MyTemplates.xml
+C:\Users\Sylvster\Desktop\CGMEA\MyTemplates\obj\Debug\MyTemplates.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\bin\Debug\MyTemplates.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\bin\Debug\MyTemplates.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\bin\Debug\MyTemplates.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\Debug\MyTemplates.Form1.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\Debug\MyTemplates.Resources.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\Debug\MyTemplates.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\Debug\MyTemplates.exe.licenses
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\Debug\MyTemplates.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\Debug\MyTemplates.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\Debug\MyTemplates.pdb

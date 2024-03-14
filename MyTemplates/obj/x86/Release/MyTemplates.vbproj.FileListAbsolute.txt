@@ -1,0 +1,40 @@
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Release\MyTemplates.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Release\MyTemplates.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Release\MyTemplates.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.Form1.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.Resources.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.vbproj.GenerateResource.Cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.exe.licenses
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Release\MyTemplates.exe
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Release\MyTemplates.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Release\MyTemplates.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.Form1.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.Resources.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.vbproj.GenerateResource.Cache
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.exe.licenses
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.exe
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.pdb
+D:\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Release\MyTemplates.dll
+D:\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Release\MyTemplates.pdb
+D:\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Release\MyTemplates.xml
+D:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\ResolveAssemblyReference.cache
+D:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.Form1.resources
+D:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.Resources.resources
+D:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.vbproj.GenerateResource.Cache
+D:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.dll.licenses
+D:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.dll
+D:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.xml
+D:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.pdb
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.Form1.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.Resources.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.vbproj.GenerateResource.Cache
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.dll.licenses
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.dll
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.xml
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Release\MyTemplates.pdb

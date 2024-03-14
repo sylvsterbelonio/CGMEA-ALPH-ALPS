@@ -1,0 +1,312 @@
+D:\CGMEA\Membership\bin\x86\Debug\Membership.dll
+D:\CGMEA\Membership\bin\x86\Debug\Membership.pdb
+D:\CGMEA\Membership\bin\x86\Debug\Membership.xml
+D:\CGMEA\Membership\bin\x86\Debug\Bookkeper.exe
+D:\CGMEA\Membership\bin\x86\Debug\Common.dll
+D:\CGMEA\Membership\bin\x86\Debug\DataAccess.dll
+D:\CGMEA\Membership\bin\x86\Debug\Location.dll
+D:\CGMEA\Membership\bin\x86\Debug\MySql.Data.dll
+D:\CGMEA\Membership\bin\x86\Debug\Personnel.dll
+D:\CGMEA\Membership\bin\x86\Debug\MyTemplates.exe
+D:\CGMEA\Membership\bin\x86\Debug\Utility.dll
+D:\CGMEA\Membership\bin\x86\Debug\Power .NET 8.dll
+D:\CGMEA\Membership\bin\x86\Debug\Location.pdb
+D:\CGMEA\Membership\bin\x86\Debug\Location.xml
+D:\CGMEA\Membership\bin\x86\Debug\Personnel.pdb
+D:\CGMEA\Membership\bin\x86\Debug\Personnel.xml
+D:\CGMEA\Membership\bin\x86\Debug\Common.pdb
+D:\CGMEA\Membership\bin\x86\Debug\Common.xml
+D:\CGMEA\Membership\bin\x86\Debug\DataAccess.pdb
+D:\CGMEA\Membership\bin\x86\Debug\DataAccess.xml
+D:\CGMEA\Membership\bin\x86\Debug\MyTemplates.pdb
+D:\CGMEA\Membership\bin\x86\Debug\MyTemplates.xml
+D:\CGMEA\Membership\bin\x86\Debug\Utility.pdb
+D:\CGMEA\Membership\bin\x86\Debug\Bookkeper.pdb
+D:\CGMEA\Membership\bin\x86\Debug\Bookkeper.xml
+D:\CGMEA\Membership\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CGMEA\Membership\obj\x86\Debug\Membership.frmMemberInfoAndAccounts.resources
+D:\CGMEA\Membership\obj\x86\Debug\Membership.frmMemberInfoAndAccountsFinder.resources
+D:\CGMEA\Membership\obj\x86\Debug\Membership.Resources.resources
+D:\CGMEA\Membership\obj\x86\Debug\Membership.vbproj.GenerateResource.Cache
+D:\CGMEA\Membership\obj\x86\Debug\Membership.dll.licenses
+D:\CGMEA\Membership\obj\x86\Debug\Membership.dll
+D:\CGMEA\Membership\obj\x86\Debug\Membership.xml
+D:\CGMEA\Membership\obj\x86\Debug\Membership.pdb
+E:\CGMEA\Membership\bin\x86\Debug\Membership.dll
+E:\CGMEA\Membership\bin\x86\Debug\Membership.pdb
+E:\CGMEA\Membership\bin\x86\Debug\Membership.xml
+E:\CGMEA\Membership\bin\x86\Debug\Bookkeper.exe
+E:\CGMEA\Membership\bin\x86\Debug\Common.dll
+E:\CGMEA\Membership\bin\x86\Debug\DataAccess.dll
+E:\CGMEA\Membership\bin\x86\Debug\Location.dll
+E:\CGMEA\Membership\bin\x86\Debug\MySql.Data.dll
+E:\CGMEA\Membership\bin\x86\Debug\Personnel.dll
+E:\CGMEA\Membership\bin\x86\Debug\MyTemplates.exe
+E:\CGMEA\Membership\bin\x86\Debug\Utility.dll
+E:\CGMEA\Membership\bin\x86\Debug\Power .NET 8.dll
+E:\CGMEA\Membership\bin\x86\Debug\Location.pdb
+E:\CGMEA\Membership\bin\x86\Debug\Location.xml
+E:\CGMEA\Membership\bin\x86\Debug\Personnel.pdb
+E:\CGMEA\Membership\bin\x86\Debug\Personnel.xml
+E:\CGMEA\Membership\bin\x86\Debug\Common.pdb
+E:\CGMEA\Membership\bin\x86\Debug\Common.xml
+E:\CGMEA\Membership\bin\x86\Debug\DataAccess.pdb
+E:\CGMEA\Membership\bin\x86\Debug\DataAccess.xml
+E:\CGMEA\Membership\bin\x86\Debug\MyTemplates.pdb
+E:\CGMEA\Membership\bin\x86\Debug\MyTemplates.xml
+E:\CGMEA\Membership\bin\x86\Debug\Utility.pdb
+E:\CGMEA\Membership\bin\x86\Debug\Bookkeper.pdb
+E:\CGMEA\Membership\bin\x86\Debug\Bookkeper.xml
+E:\CGMEA\Membership\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\CGMEA\Membership\obj\x86\Debug\Membership.frmMemberInfoAndAccounts.resources
+E:\CGMEA\Membership\obj\x86\Debug\Membership.Resources.resources
+E:\CGMEA\Membership\obj\x86\Debug\Membership.frmMemberInfoAndAccountsFinder.resources
+E:\CGMEA\Membership\obj\x86\Debug\Membership.vbproj.GenerateResource.Cache
+E:\CGMEA\Membership\obj\x86\Debug\Membership.dll.licenses
+E:\CGMEA\Membership\obj\x86\Debug\Membership.dll
+E:\CGMEA\Membership\obj\x86\Debug\Membership.xml
+E:\CGMEA\Membership\obj\x86\Debug\Membership.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Membership.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Membership.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Membership.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Bookkeper.exe
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Common.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\DataAccess.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Location.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MySql.Data.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Personnel.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MyTemplates.exe
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Utility.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Power .NET 8.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Location.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Location.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Personnel.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Personnel.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Common.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Common.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\DataAccess.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\DataAccess.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MyTemplates.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MyTemplates.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Utility.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Bookkeper.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Bookkeper.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.frmMemberInfoAndAccounts.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.Resources.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.frmMemberInfoAndAccountsFinder.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.vbproj.GenerateResource.Cache
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.dll.licenses
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Membership.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Membership.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Membership.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Bookkeper.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Common.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\DataAccess.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Location.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MySql.Data.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Personnel.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MyTemplates.exe
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Utility.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Power .NET 8.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Location.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Location.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Personnel.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Personnel.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Common.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Common.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\DataAccess.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\DataAccess.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MyTemplates.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MyTemplates.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Utility.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Bookkeper.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Bookkeper.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.frmMemberInfoAndAccounts.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.Resources.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.frmCrystalReportViewer.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.frmMemberInfoAndAccountsFinder.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.vbproj.GenerateResource.Cache
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.dll.licenses
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.pdb
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Membership.dll
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Membership.pdb
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Membership.xml
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Bookkeper.dll
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Common.dll
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\DataAccess.dll
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Location.dll
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MySql.Data.dll
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Personnel.dll
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MyTemplates.exe
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Utility.dll
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Power .NET 8.dll
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Location.pdb
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Location.xml
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Personnel.pdb
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Personnel.xml
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Common.pdb
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Common.xml
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\DataAccess.pdb
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\DataAccess.xml
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MyTemplates.pdb
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MyTemplates.xml
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Utility.pdb
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Bookkeper.pdb
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Bookkeper.xml
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.frmMemberInfoAndAccounts.resources
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.Resources.resources
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.frmCrystalReportViewer.resources
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.frmMemberInfoAndAccountsFinder.resources
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.vbproj.GenerateResource.Cache
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.dll.licenses
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.dll
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.xml
+D:\2016-01-08\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.pdb
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Membership.dll
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Membership.pdb
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Membership.xml
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Bookkeper.dll
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Common.dll
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\DataAccess.dll
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Location.dll
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MySql.Data.dll
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Personnel.dll
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MyTemplates.exe
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Utility.dll
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Power .NET 8.dll
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Location.pdb
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Location.xml
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Personnel.pdb
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Personnel.xml
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Common.pdb
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Common.xml
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\DataAccess.pdb
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\DataAccess.xml
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MyTemplates.pdb
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MyTemplates.xml
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Utility.pdb
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Bookkeper.pdb
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Bookkeper.xml
+E:\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.frmMemberInfoAndAccounts.resources
+E:\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.Resources.resources
+E:\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.frmCrystalReportViewer.resources
+E:\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.frmMemberInfoAndAccountsFinder.resources
+E:\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.vbproj.GenerateResource.Cache
+E:\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.dll.licenses
+E:\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.dll
+E:\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.xml
+E:\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Membership.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Membership.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Membership.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Bookkeper.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Common.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\DataAccess.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Location.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MySql.Data.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Personnel.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MyTemplates.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Utility.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Power .NET 8.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Location.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Location.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Personnel.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Personnel.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Common.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Common.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\DataAccess.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\DataAccess.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MyTemplates.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MyTemplates.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Utility.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Bookkeper.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Bookkeper.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.frmMemberInfoAndAccounts.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.Resources.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.frmCrystalReportViewer.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.frmMemberInfoAndAccountsFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.vbproj.GenerateResource.Cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.dll.licenses
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Membership.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Membership.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Membership.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Bookkeper.exe
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Common.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\DataAccess.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Location.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MySql.Data.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Personnel.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MyTemplates.exe
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Utility.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Power .NET 8.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Location.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Location.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Personnel.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Personnel.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Common.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Common.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\DataAccess.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\DataAccess.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MyTemplates.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MyTemplates.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Utility.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Bookkeper.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Bookkeper.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.frmMemberInfoAndAccounts.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.Resources.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.frmCrystalReportViewer.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.frmMemberInfoAndAccountsFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.vbproj.GenerateResource.Cache
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.dll.licenses
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.pdb
+D:\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.frmMemberInfoAndAccounts.resources
+D:\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.Resources.resources
+D:\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.frmCrystalReportViewer.resources
+D:\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.frmMemberInfoAndAccountsFinder.resources
+D:\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.vbproj.GenerateResource.Cache
+D:\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.dll.licenses
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Membership.dll
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Membership.pdb
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Membership.xml
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Bookkeper.dll
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Common.dll
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\DataAccess.dll
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Location.dll
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MySql.Data.dll
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Personnel.dll
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MyTemplates.dll
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Utility.dll
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Power .NET 8.dll
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Location.pdb
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Location.xml
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Personnel.pdb
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Personnel.xml
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Common.pdb
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Common.xml
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\DataAccess.pdb
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\DataAccess.xml
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MyTemplates.pdb
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\MyTemplates.xml
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Utility.pdb
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Bookkeper.pdb
+D:\CGMEA ALPH-ALPS\Membership\bin\x86\Debug\Bookkeper.xml
+D:\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.dll
+D:\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.xml
+D:\CGMEA ALPH-ALPS\Membership\obj\x86\Debug\Membership.pdb

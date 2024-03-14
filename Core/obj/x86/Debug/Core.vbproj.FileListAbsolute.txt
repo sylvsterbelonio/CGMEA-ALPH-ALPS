@@ -1,0 +1,433 @@
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility\mysql.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility\mysqldump.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Help\credits.rtf
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Help\license.rtf
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.exe.config
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\BarcodeControl.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Bookkeper.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Common.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Constituent.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CustomObjects.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\DataAccess.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Location.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Membership.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MySql.Data.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MyTemplates.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Personnel.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Power .NET 8.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Systems.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Treasurer.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CloudToolkitN6.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\itextsharp.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Interop.Excel.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\office.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Interop.Office.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Microsoft.Office.Interop.Word.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Membership.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Membership.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Location.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Location.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Personnel.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Personnel.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Common.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Common.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Systems.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Systems.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Constituent.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Constituent.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\DataAccess.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\DataAccess.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MyTemplates.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MyTemplates.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Power .NET 8.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Power .NET 8.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\office.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Bookkeper.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Bookkeper.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CustomObjects.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CustomObjects.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Treasurer.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Treasurer.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmMain.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.Resources.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmBackGrounLogIn.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmDashBoard.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmNotificationBoard.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility\mysql.exe
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility\mysqldump.exe
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Help\credits.rtf
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Help\license.rtf
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.exe.config
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.exe
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\BarcodeControl.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Bookkeper.exe
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Common.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Constituent.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CustomObjects.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\DataAccess.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Location.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Membership.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MySql.Data.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MyTemplates.exe
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Personnel.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Systems.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Treasurer.exe
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Microsoft.Office.Interop.Word.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CloudToolkitN6.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\itextsharp.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Microsoft.Vbe.Interop.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Interop.Excel.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\office.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Interop.Office.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Microsoft.Office.Interop.Word.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Membership.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Membership.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Location.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Location.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Personnel.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Personnel.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Systems.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Systems.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Constituent.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Constituent.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\DataAccess.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\DataAccess.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Common.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Common.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MyTemplates.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MyTemplates.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\office.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Bookkeper.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Bookkeper.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CustomObjects.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CustomObjects.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Treasurer.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmMain.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.Resources.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmBackGrounLogIn.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmDashBoard.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmNotificationBoard.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.vbproj.GenerateResource.Cache
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.exe
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.pdb
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility\mysql.exe
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility\mysqldump.exe
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Help\credits.rtf
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Help\license.rtf
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.exe.config
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.exe
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.pdb
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.xml
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\BarcodeControl.dll
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Bookkeper.dll
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Common.dll
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Constituent.dll
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\DataAccess.dll
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Location.dll
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Membership.dll
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MySql.Data.dll
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MyTemplates.exe
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Personnel.dll
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Systems.dll
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Treasurer.dll
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility.dll
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Microsoft.Office.Interop.Word.dll
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CloudToolkitN6.dll
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Microsoft.Vbe.Interop.dll
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\office.dll
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Microsoft.Office.Interop.Word.xml
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Membership.pdb
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Membership.xml
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Location.pdb
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Location.xml
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Personnel.pdb
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Personnel.xml
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Common.pdb
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Common.xml
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Systems.pdb
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Systems.xml
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Constituent.pdb
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Constituent.xml
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\DataAccess.pdb
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\DataAccess.xml
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MyTemplates.pdb
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MyTemplates.xml
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility.pdb
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\office.xml
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Bookkeper.pdb
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Bookkeper.xml
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Treasurer.pdb
+E:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Treasurer.xml
+E:\CGMEA ALPH-ALPS\Core\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmMain.resources
+E:\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.Resources.resources
+E:\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmBackGrounLogIn.resources
+E:\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmDashBoard.resources
+E:\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmNotificationBoard.resources
+E:\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.vbproj.GenerateResource.Cache
+E:\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.exe
+E:\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.xml
+E:\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility\mysql.exe
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility\mysqldump.exe
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Help\credits.rtf
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Help\license.rtf
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.exe.config
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.exe
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\BarcodeControl.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Bookkeper.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Common.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Constituent.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CustomObjects.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\DataAccess.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Location.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Membership.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MySql.Data.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MyTemplates.exe
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Personnel.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Systems.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Treasurer.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Microsoft.Office.Interop.Word.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CloudToolkitN6.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\itextsharp.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Microsoft.Vbe.Interop.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Interop.Excel.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\office.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Interop.Office.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Microsoft.Office.Interop.Word.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Membership.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Membership.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Location.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Location.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Personnel.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Personnel.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Common.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Common.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Systems.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Systems.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Constituent.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Constituent.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\DataAccess.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\DataAccess.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MyTemplates.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MyTemplates.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\office.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Bookkeper.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Bookkeper.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CustomObjects.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CustomObjects.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Treasurer.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Treasurer.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmMain.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.Resources.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmBackGrounLogIn.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmDashBoard.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmNotificationBoard.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.vbproj.GenerateResource.Cache
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.exe
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.pdb
+F:\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.exe.config
+F:\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.exe
+F:\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.xml
+F:\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.exe.config
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Help\credits.rtf
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Help\license.rtf
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility\mysql.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility\mysqldump.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\BarcodeControl.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Bookkeper.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Common.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Constituent.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\DataAccess.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Location.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Membership.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MySql.Data.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MyTemplates.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Personnel.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Systems.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Treasurer.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CloudToolkitN6.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\office.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Microsoft.Office.Interop.Word.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Membership.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Membership.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Location.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Location.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Personnel.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Personnel.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Common.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Common.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Systems.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Systems.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Constituent.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Constituent.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\DataAccess.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\DataAccess.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MyTemplates.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MyTemplates.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\office.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Bookkeper.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Bookkeper.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Treasurer.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Treasurer.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmMain.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.Resources.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmBackGrounLogIn.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmChatClient.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmDashBoard.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmNotificationBoard.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.vbproj.GenerateResource.Cache
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility\mysql.exe
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility\mysqldump.exe
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Help\credits.rtf
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Help\license.rtf
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.exe.config
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.exe
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\BarcodeControl.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Bookkeper.exe
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Common.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Constituent.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\DataAccess.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Location.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Membership.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MySql.Data.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MyTemplates.exe
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Personnel.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Power .NET 8.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Systems.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Treasurer.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CloudToolkitN6.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\office.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Microsoft.Office.Interop.Word.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Membership.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Membership.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Location.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Location.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Personnel.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Personnel.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Common.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Common.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Systems.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Systems.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Constituent.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Constituent.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\DataAccess.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\DataAccess.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MyTemplates.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MyTemplates.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\office.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Bookkeper.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Bookkeper.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Treasurer.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Treasurer.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmMain.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.Resources.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmBackGrounLogIn.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmChatClient.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmDashBoard.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmNotificationBoard.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.vbproj.GenerateResource.Cache
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.exe
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.pdb
+D:\CGMEA ALPH-ALPS\Core\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmMain.resources
+D:\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.Resources.resources
+D:\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmBackGrounLogIn.resources
+D:\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmChatClient.resources
+D:\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmDashBoard.resources
+D:\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.frmNotificationBoard.resources
+D:\CGMEA ALPH-ALPS\Core\obj\x86\Debug\Core.vbproj.GenerateResource.Cache
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility\mysql.exe
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility\mysqldump.exe
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Help\credits.rtf
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Help\license.rtf
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.exe.config
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.exe
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CGMEA.xml
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\BarcodeControl.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Bookkeper.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\CloudToolkitN6.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Common.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Constituent.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\DataAccess.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Location.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Membership.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MySql.Data.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MyTemplates.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Personnel.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Power .NET 8.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Systems.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Treasurer.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Microsoft.Office.Interop.Word.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Microsoft.Vbe.Interop.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\office.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Membership.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Membership.xml
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Location.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Location.xml
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Personnel.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Personnel.xml
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Common.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Common.xml
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Systems.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Systems.xml
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Constituent.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Constituent.xml
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\DataAccess.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\DataAccess.xml
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MyTemplates.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\MyTemplates.xml
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Utility.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Bookkeper.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Bookkeper.xml
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Treasurer.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Debug\Treasurer.xml
+D:\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.exe
+D:\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.xml
+D:\CGMEA ALPH-ALPS\Core\obj\x86\Debug\CGMEA.pdb

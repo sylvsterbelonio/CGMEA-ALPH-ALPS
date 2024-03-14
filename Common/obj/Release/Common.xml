@@ -1,0 +1,124 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Common
+</name>
+</assembly>
+<members>
+<member name="F:Common.ToolStripDateTimeStatusLabel.DEFAULT_CUSTOM_FORMAT">
+	<summary>
+ The default value for the CustomFormat property.
+ </summary>
+</member><member name="F:Common.ToolStripDateTimeStatusLabel.DEFAULT_FORMAT">
+	<summary>
+ The default value for the Format property.
+ </summary>
+</member><member name="F:Common.ToolStripDateTimeStatusLabel._customFormat">
+	<summary>
+ The custom format string used to format the date and/or time in the control.
+ </summary>
+</member><member name="F:Common.ToolStripDateTimeStatusLabel._format">
+	<summary>
+ Determines whether dates and times are displayed using standard or custom formatting.
+ </summary>
+</member><member name="P:Common.ToolStripDateTimeStatusLabel.CustomFormat">
+	<summary>
+ Gets or sets the custom date/time format string.
+ </summary>
+	<value>
+ A string that represents the custom date/time format. The default is a null reference (<b>Nothing</b> in Visual Basic).
+ </value>
+</member><member name="P:Common.ToolStripDateTimeStatusLabel.Format">
+	<summary>
+ Gets or sets the format of the date and time displayed in the control.
+ </summary>
+	<value>
+ One of the <see cref="T:System.Windows.Forms.DateTimePickerFormat"/> values. The default is <see cref="T:System.Windows.Forms.DateTimePickerFormat">Time</see>.
+ </value>
+</member><member name="P:Common.ToolStripDateTimeStatusLabel.ActiveLinkColor">
+	<summary>
+ Gets the color used to display an active link.
+ </summary>
+	<value>
+ Always returns <see cref="F:System.Drawing.Color.Empty"/>.
+ </value>
+</member><member name="P:Common.ToolStripDateTimeStatusLabel.IsLink">
+	<summary>
+ Gets a value indicating whether the ToolStripLabel is a hyperlink.
+ </summary>
+	<value>
+ Always returns <b>false</b>.
+ </value>
+</member><member name="P:Common.ToolStripDateTimeStatusLabel.LinkBehavior">
+	<summary>
+ Gets a value that represents the behavior of a link
+ </summary>
+	<value>
+ Always returns <see cref="F:System.Windows.Forms.LinkBehavior.SystemDefault"/>.
+ </value>
+</member><member name="P:Common.ToolStripDateTimeStatusLabel.LinkColor">
+	<summary>
+ Gets the color used to display an active link.
+ </summary>
+	<value>
+ Always returns <see cref="F:System.Drawing.Color.Empty"/>.
+ </value>
+</member><member name="P:Common.ToolStripDateTimeStatusLabel.Text">
+	<summary>
+ Overridden.  Gets the text that is to be displayed on the item.
+ </summary>
+</member><member name="P:Common.ToolStripDateTimeStatusLabel.VisitedLinkColor">
+	<summary>
+ Gets the color used when displaying a link that that has been previously visited.
+ </summary>
+	<value>
+ Always returns <see cref="F:System.Drawing.Color.Empty"/>.
+ </value>
+</member><member name="M:Common.ToolStripDateTimeStatusLabel.#ctor">
+	<summary>
+ Initializes a new instance of the <b>ToolStripDateTimeStatusLabel</b> class.
+ </summary>
+	<remarks>
+ This constructor sets the initial <see cref="P:Common.ToolStripDateTimeStatusLabel.Format"/> property value to <see cref="T:System.Windows.Forms.DateTimePickerFormat">Time</see>.
+ </remarks>
+</member><member name="E:Common.ToolStripDateTimeStatusLabel.FormatChanged">
+	<summary>
+ Occurs when the <see cref="P:Common.ToolStripDateTimeStatusLabel.Format"/> property value has changed or else the <b>Format</b> property value is
+ <see cref="T:System.Windows.Forms.DateTimePickerFormat">Custom</see> and the <see cref="P:Common.ToolStripDateTimeStatusLabel.CustomFormat"/> property value has changed.
+ </summary>
+</member><member name="M:Common.ToolStripDateTimeStatusLabel.GetFormattedDateAndTime">
+	<summary>
+ Gets a string representing the current date and/or time formatted in
+ accordance with the current Format and CustomFormat property values.
+ </summary>
+	<returns>
+ A formatted string representing the current date and/or time.
+ </returns>
+</member><member name="M:Common.ToolStripDateTimeStatusLabel.OnFormatChanged(System.EventArgs)">
+	<summary>
+ Raises the <see cref="E:Common.ToolStripDateTimeStatusLabel.FormatChanged"/> event.
+ </summary>
+	<param name="e">
+ An <seealso cref="T:System.EventArgs"/> that contains the event data.
+ </param>
+</member><member name="M:Common.ToolStripDateTimeStatusLabel.UpdateText">
+	<summary>
+ Displays a formatted string representing the current date and/or time.
+ </summary>
+</member><member name="P:Common.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Common.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Common.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

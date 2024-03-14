@@ -1,0 +1,204 @@
+C:\Users\MarSyl\Desktop\IRGS2011\Location\bin\x86\Release\Location.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Location\bin\x86\Release\Location.pdb
+C:\Users\MarSyl\Desktop\IRGS2011\Location\bin\x86\Release\Location.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Location\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\MarSyl\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmBarangay.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmBarangayFinder.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmCountry.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmCountryFinder.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmDistrict.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmDistrictFinder.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmMunicipality.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmMunicipalityFinder.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmProvince.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmProvinceFinder.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmRegion.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmRegionFinder.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmZipCode.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmZipCodeFinder.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Location\obj\x86\Release\Location.Resources.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Location\obj\x86\Release\Location.vbproj.GenerateResource.Cache
+C:\Users\MarSyl\Desktop\IRGS2011\Location\obj\x86\Release\Location.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Location\obj\x86\Release\Location.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Location\obj\x86\Release\Location.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Location\bin\x86\Release\Location.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Location\bin\x86\Release\Location.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Location\bin\x86\Release\Location.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Location\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmBarangay.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmBarangayFinder.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmCountry.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmCountryFinder.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmDistrict.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmDistrictFinder.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmMunicipality.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmMunicipalityFinder.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmProvince.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmProvinceFinder.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmRegion.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmRegionFinder.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmZipCode.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Location\obj\x86\Release\Location.frmZipCodeFinder.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Location\obj\x86\Release\Location.Resources.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Location\obj\x86\Release\Location.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\IRGS2011\Location\obj\x86\Release\Location.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Location\obj\x86\Release\Location.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Location\obj\x86\Release\Location.pdb
+C:\Users\Sylvster\Desktop\CGMEA\Location\bin\x86\Release\Location.dll
+C:\Users\Sylvster\Desktop\CGMEA\Location\bin\x86\Release\Location.pdb
+C:\Users\Sylvster\Desktop\CGMEA\Location\bin\x86\Release\Location.xml
+C:\Users\Sylvster\Desktop\CGMEA\Location\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\CGMEA\Location\obj\x86\Release\Location.frmBarangay.resources
+C:\Users\Sylvster\Desktop\CGMEA\Location\obj\x86\Release\Location.frmBarangayFinder.resources
+C:\Users\Sylvster\Desktop\CGMEA\Location\obj\x86\Release\Location.frmCountry.resources
+C:\Users\Sylvster\Desktop\CGMEA\Location\obj\x86\Release\Location.frmCountryFinder.resources
+C:\Users\Sylvster\Desktop\CGMEA\Location\obj\x86\Release\Location.frmDistrict.resources
+C:\Users\Sylvster\Desktop\CGMEA\Location\obj\x86\Release\Location.frmDistrictFinder.resources
+C:\Users\Sylvster\Desktop\CGMEA\Location\obj\x86\Release\Location.frmMunicipality.resources
+C:\Users\Sylvster\Desktop\CGMEA\Location\obj\x86\Release\Location.frmMunicipalityFinder.resources
+C:\Users\Sylvster\Desktop\CGMEA\Location\obj\x86\Release\Location.frmProvince.resources
+C:\Users\Sylvster\Desktop\CGMEA\Location\obj\x86\Release\Location.frmProvinceFinder.resources
+C:\Users\Sylvster\Desktop\CGMEA\Location\obj\x86\Release\Location.frmRegion.resources
+C:\Users\Sylvster\Desktop\CGMEA\Location\obj\x86\Release\Location.frmRegionFinder.resources
+C:\Users\Sylvster\Desktop\CGMEA\Location\obj\x86\Release\Location.frmZipCode.resources
+C:\Users\Sylvster\Desktop\CGMEA\Location\obj\x86\Release\Location.frmZipCodeFinder.resources
+C:\Users\Sylvster\Desktop\CGMEA\Location\obj\x86\Release\Location.Resources.resources
+C:\Users\Sylvster\Desktop\CGMEA\Location\obj\x86\Release\Location.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\CGMEA\Location\obj\x86\Release\Location.dll
+C:\Users\Sylvster\Desktop\CGMEA\Location\obj\x86\Release\Location.xml
+C:\Users\Sylvster\Desktop\CGMEA\Location\obj\x86\Release\Location.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Location\bin\x86\Release\Location.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Location\bin\x86\Release\Location.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Location\bin\x86\Release\Location.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Location\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmBarangay.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmBarangayFinder.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmCountry.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmCountryFinder.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmDistrict.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmDistrictFinder.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmMunicipality.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmMunicipalityFinder.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmProvince.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmProvinceFinder.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmRegion.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmRegionFinder.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmZipCode.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmZipCodeFinder.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.Resources.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.pdb
+E:\CGMEA ALPH-ALPS\Location\bin\x86\Release\Location.dll
+E:\CGMEA ALPH-ALPS\Location\bin\x86\Release\Location.pdb
+E:\CGMEA ALPH-ALPS\Location\bin\x86\Release\Location.xml
+E:\CGMEA ALPH-ALPS\Location\obj\x86\Release\ResolveAssemblyReference.cache
+E:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmBarangay.resources
+E:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmBarangayFinder.resources
+E:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmCountry.resources
+E:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmCountryFinder.resources
+E:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmDistrict.resources
+E:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmDistrictFinder.resources
+E:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmMunicipality.resources
+E:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmMunicipalityFinder.resources
+E:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmProvince.resources
+E:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmProvinceFinder.resources
+E:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmRegion.resources
+E:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmRegionFinder.resources
+E:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmZipCode.resources
+E:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmZipCodeFinder.resources
+E:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.Resources.resources
+E:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.vbproj.GenerateResource.Cache
+E:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.dll
+E:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.xml
+E:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Location\bin\x86\Release\Location.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Location\bin\x86\Release\Location.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Location\bin\x86\Release\Location.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Location\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmBarangay.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmBarangayFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmCountry.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmCountryFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmDistrict.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmDistrictFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmMunicipality.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmMunicipalityFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmProvince.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmProvinceFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmRegion.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmRegionFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmZipCode.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmZipCodeFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.Resources.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.vbproj.GenerateResource.Cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Location\bin\x86\Release\Location.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Location\bin\x86\Release\Location.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Location\bin\x86\Release\Location.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Location\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmBarangay.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmBarangayFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmCountry.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmCountryFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmDistrict.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmDistrictFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmMunicipality.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmMunicipalityFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmProvince.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmProvinceFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmRegion.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmRegionFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmZipCode.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmZipCodeFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.Resources.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.vbproj.GenerateResource.Cache
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.pdb
+D:\CGMEA ALPH-ALPS\Location\bin\x86\Release\Location.dll
+D:\CGMEA ALPH-ALPS\Location\bin\x86\Release\Location.pdb
+D:\CGMEA ALPH-ALPS\Location\bin\x86\Release\Location.xml
+D:\CGMEA ALPH-ALPS\Location\obj\x86\Release\ResolveAssemblyReference.cache
+D:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmBarangay.resources
+D:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmBarangayFinder.resources
+D:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmCountry.resources
+D:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmCountryFinder.resources
+D:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmDistrict.resources
+D:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmDistrictFinder.resources
+D:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmMunicipality.resources
+D:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmMunicipalityFinder.resources
+D:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmProvince.resources
+D:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmProvinceFinder.resources
+D:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmRegion.resources
+D:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmRegionFinder.resources
+D:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmZipCode.resources
+D:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmZipCodeFinder.resources
+D:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.Resources.resources
+D:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.vbproj.GenerateResource.Cache
+D:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.dll
+D:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.xml
+D:\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.pdb
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.vbprojResolveAssemblyReference.cache
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmBarangay.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmBarangayFinder.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmCountry.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmCountryFinder.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmDistrict.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmDistrictFinder.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmMunicipality.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmMunicipalityFinder.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmProvince.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmProvinceFinder.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmRegion.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmRegionFinder.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmZipCode.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.frmZipCodeFinder.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.Resources.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.vbproj.GenerateResource.Cache
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.dll
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.xml
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Location\obj\x86\Release\Location.pdb

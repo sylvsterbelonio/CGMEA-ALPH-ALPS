@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6D5D9E89-0A88-490D-957A-E9C0374CF9A5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Systems</RootNamespace>
+    <AssemblyName>Systems</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Systems.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Systems.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>Systems.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>Systems.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=5.2.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Core\Resources\MySql.Data.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\clsAccessPermission.vb" />
+    <Compile Include="Classes\clsSystemAccessLevel.vb" />
+    <Compile Include="Classes\clsSystemParameter.vb" />
+    <Compile Include="Classes\clsSystems.vb" />
+    <Compile Include="Classes\clsSystemUser.vb" />
+    <Compile Include="Forms\frmSystemAccessLevel.designer.vb">
+      <DependentUpon>frmSystemAccessLevel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSystemAccessLevel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSystemAccessLevelFinder.designer.vb">
+      <DependentUpon>frmSystemAccessLevelFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSystemAccessLevelFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSystemParameter.designer.vb">
+      <DependentUpon>frmSystemParameter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSystemParameter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSystemParameterFinder.designer.vb">
+      <DependentUpon>frmSystemParameterFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSystemParameterFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSystemUser.designer.vb">
+      <DependentUpon>frmSystemUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSystemUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSystemUserFinder.designer.vb">
+      <DependentUpon>frmSystemUserFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSystemUserFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\AssemblyInfo.vb" />
+    <Compile Include="Modules\modPublics.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\frmSystemAccessLevel.resx">
+      <DependentUpon>frmSystemAccessLevel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSystemAccessLevelFinder.resx">
+      <DependentUpon>frmSystemAccessLevelFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSystemParameter.resx">
+      <DependentUpon>frmSystemParameter.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSystemParameterFinder.resx">
+      <DependentUpon>frmSystemParameterFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSystemUser.resx">
+      <DependentUpon>frmSystemUser.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSystemUserFinder.resx">
+      <DependentUpon>frmSystemUserFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.vbproj">
+      <Project>{D1268F11-E19A-4416-9545-CAA51F4C43E9}</Project>
+      <Name>Common</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\DataAccess\DataAccess.vbproj">
+      <Project>{1C85BE8B-6D98-4624-AFF0-935B61BC90A2}</Project>
+      <Name>DataAccess</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Location\Location.vbproj">
+      <Project>{44348B6A-181F-487D-A78C-AC9639854852}</Project>
+      <Name>Location</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Personnel\Personnel.vbproj">
+      <Project>{BB753093-90B5-42BB-A30D-E88A8A4A6124}</Project>
+      <Name>Personnel</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\blank-user.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

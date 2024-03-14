@@ -1,0 +1,203 @@
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\bin\Debug\Utility.dll
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\bin\Debug\Utility.pdb
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\bin\Debug\Utility.xml
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.Resources.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmAccountableForm.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmAccountableFormFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmBank.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmBankFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmBusinessCategory.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmBusinessCategoryFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmBusinessRequirements.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmBusinessRequirementsFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmBusinessSchedule.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmBusinessScheduleFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmBusinessType.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmBusinessTypeFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmClassification.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmClassificationFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmCollectionType.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmCollectionTypeFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmCollector.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmCollectorFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmExpenditure.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmExpenditureFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmFund.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmFundFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmInspector.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmInspectorFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmPermitFee.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmPermitFeeFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmReceipt.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmReceiptFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmRevisionCode.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmRevisionCodeFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmSignatory.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmSignatoryFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmSpecialLevy.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmSpecialLevyFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmSurchargeInterest.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmSurchargeInterestFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmTaxCode.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmTaxCodeFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmTransactionCode.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.frmTransactionCodeFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.vbproj.GenerateResource.Cache
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.dll
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.xml
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Debug\Utility.pdb
+D:\IRGS2011\Utility\bin\Debug\Utility.dll
+D:\IRGS2011\Utility\bin\Debug\Utility.pdb
+D:\IRGS2011\Utility\bin\Debug\Utility.xml
+D:\IRGS2011\Utility\obj\Debug\ResolveAssemblyReference.cache
+D:\IRGS2011\Utility\obj\Debug\Utility.Resources.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmAccountableForm.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmAccountableFormFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmAssessmentLevel.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmAssessmentLevelFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmBank.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmBankFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmBusinessCategory.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmBusinessCategoryFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmBusinessRequirements.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmBusinessRequirementsFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmBusinessSchedule.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmBusinessScheduleFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmBusinessType.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmBusinessTypeFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmClassification.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmClassificationFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmCollectionType.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmCollectionTypeFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmCollector.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmCollectorFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmDescriptionCode.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmDescriptionCodeFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmExpenditure.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmExpenditureFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmFund.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmFundFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmInspector.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmInspectorFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmMemoranda.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmMemorandaFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmPermitFee.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmPermitFeeFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmPropertyClassification.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmPropertyClassificationFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmPropertyType.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmPropertyTypeFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmReceipt.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmReceiptFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmRevisionCode.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmRevisionCodeFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmSignatory.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmSignatoryFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmSpecialLevy.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmSpecialLevyFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmSurchargeInterest.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmSurchargeInterestFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmTaxCode.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmTaxCodeFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmTransactionCode.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.frmTransactionCodeFinder.resources
+D:\IRGS2011\Utility\obj\Debug\Utility.vbproj.GenerateResource.Cache
+D:\IRGS2011\Utility\obj\Debug\Utility.dll
+D:\IRGS2011\Utility\obj\Debug\Utility.xml
+D:\IRGS2011\Utility\obj\Debug\Utility.pdb
+E:\IRGS2011\Utility\bin\Debug\Utility.dll
+E:\IRGS2011\Utility\bin\Debug\Utility.pdb
+E:\IRGS2011\Utility\bin\Debug\Utility.xml
+E:\IRGS2011\Utility\obj\Debug\ResolveAssemblyReference.cache
+E:\IRGS2011\Utility\obj\Debug\Utility.Resources.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmAccountableForm.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmAccountableFormFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmAssessmentLevel.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmAssessmentLevelFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmBank.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmBankFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmBusinessCategory.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmBusinessCategoryFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmBusinessRequirements.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmBusinessRequirementsFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmBusinessSchedule.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmBusinessScheduleFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmBusinessType.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmBusinessTypeFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmClassification.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmClassificationFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmCollectionType.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmCollectionTypeFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmCollector.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmCollectorFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmDescriptionCode.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmDescriptionCodeFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmExpenditure.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmExpenditureFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmFund.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmFundFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmInspector.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmInspectorFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmMemoranda.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmMemorandaFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmPermitFee.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmPermitFeeFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmPropertyClassification.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmPropertyClassificationFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmPropertyType.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmPropertyTypeFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmReceipt.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmReceiptFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmRevisionCode.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmRevisionCodeFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmSignatory.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmSignatoryFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmSpecialLevy.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmSpecialLevyFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmSurchargeInterest.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmSurchargeInterestFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmTaxCode.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmTaxCodeFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmTransactionCode.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.frmTransactionCodeFinder.resources
+E:\IRGS2011\Utility\obj\Debug\Utility.vbproj.GenerateResource.Cache
+E:\IRGS2011\Utility\obj\Debug\Utility.dll
+E:\IRGS2011\Utility\obj\Debug\Utility.xml
+E:\IRGS2011\Utility\obj\Debug\Utility.pdb
+D:\CGMEA ALPH-ALPS\Utility\bin\Debug\Utility.dll
+D:\CGMEA ALPH-ALPS\Utility\bin\Debug\Utility.pdb
+D:\CGMEA ALPH-ALPS\Utility\bin\Debug\Utility.xml
+D:\CGMEA ALPH-ALPS\Utility\obj\Debug\ResolveAssemblyReference.cache
+D:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.Resources.resources
+D:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.frmBank.resources
+D:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.frmBankFinder.resources
+D:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.frmCollectionFee.resources
+D:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.frmCollectionFeeFinder.resources
+D:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.frmCollectionType.resources
+D:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.frmCollectionTypeFinder.resources
+D:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.frmSignatory.resources
+D:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.frmSignatoryFinder.resources
+D:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.frmMemberSignatoryFinder.resources
+D:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.vbproj.GenerateResource.Cache
+D:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.dll
+D:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.xml
+D:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.pdb
+E:\CGMEA ALPH-ALPS\Utility\bin\Debug\Utility.dll
+E:\CGMEA ALPH-ALPS\Utility\bin\Debug\Utility.pdb
+E:\CGMEA ALPH-ALPS\Utility\bin\Debug\Utility.xml
+E:\CGMEA ALPH-ALPS\Utility\obj\Debug\ResolveAssemblyReference.cache
+E:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.Resources.resources
+E:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.frmBank.resources
+E:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.frmBankFinder.resources
+E:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.frmCollectionFee.resources
+E:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.frmCollectionFeeFinder.resources
+E:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.frmCollectionType.resources
+E:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.frmCollectionTypeFinder.resources
+E:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.frmSignatory.resources
+E:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.frmSignatoryFinder.resources
+E:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.frmMemberSignatoryFinder.resources
+E:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.vbproj.GenerateResource.Cache
+E:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.dll
+E:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.xml
+E:\CGMEA ALPH-ALPS\Utility\obj\Debug\Utility.pdb

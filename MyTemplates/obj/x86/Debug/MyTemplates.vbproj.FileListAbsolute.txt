@@ -1,0 +1,77 @@
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Debug\MyTemplates.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Debug\MyTemplates.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Debug\MyTemplates.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.Form1.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.Resources.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.exe.licenses
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Debug\MyTemplates.exe
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Debug\MyTemplates.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Debug\MyTemplates.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.Form1.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.Resources.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.vbproj.GenerateResource.Cache
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.exe.licenses
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.exe
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.pdb
+E:\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Debug\MyTemplates.exe
+E:\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Debug\MyTemplates.pdb
+E:\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Debug\MyTemplates.xml
+E:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.Form1.resources
+E:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.Resources.resources
+E:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.vbproj.GenerateResource.Cache
+E:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.exe.licenses
+E:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.exe
+E:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.xml
+E:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Debug\MyTemplates.exe
+D:\CGMEA new\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Debug\MyTemplates.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Debug\MyTemplates.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CGMEA new\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.Form1.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.Resources.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.vbproj.GenerateResource.Cache
+D:\CGMEA new\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.exe.licenses
+D:\CGMEA new\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.exe
+D:\CGMEA new\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Debug\MyTemplates.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Debug\MyTemplates.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Debug\MyTemplates.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.Form1.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.Resources.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.vbproj.GenerateResource.Cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.exe.licenses
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Debug\MyTemplates.exe
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Debug\MyTemplates.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Debug\MyTemplates.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.Form1.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.Resources.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.vbproj.GenerateResource.Cache
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.exe.licenses
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.exe
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.pdb
+D:\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Debug\MyTemplates.dll
+D:\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Debug\MyTemplates.pdb
+D:\CGMEA ALPH-ALPS\MyTemplates\bin\x86\Debug\MyTemplates.xml
+D:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.Form1.resources
+D:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.Resources.resources
+D:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.vbproj.GenerateResource.Cache
+D:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.dll.licenses
+D:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.dll
+D:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.xml
+D:\CGMEA ALPH-ALPS\MyTemplates\obj\x86\Debug\MyTemplates.pdb

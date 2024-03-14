@@ -1,0 +1,413 @@
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\bin\Release\Utility.dll
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\bin\Release\Utility.pdb
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\bin\Release\Utility.xml
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.Resources.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmAccountableForm.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmAccountableFormFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmAssessmentLevel.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmAssessmentLevelFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBank.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBankFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessCategory.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessCategoryFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessRequirements.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessRequirementsFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessSchedule.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessScheduleFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessType.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessTypeFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmClassification.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmClassificationFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmCollectionType.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmCollectionTypeFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmCollector.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmCollectorFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmDescriptionCode.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmDescriptionCodeFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmExpenditure.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmExpenditureFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmFund.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmFundFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmInspector.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmInspectorFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmMemoranda.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmMemorandaFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmPermitFee.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmPermitFeeFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmPropertyClassification.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmPropertyClassificationFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmPropertyType.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmPropertyTypeFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmReceipt.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmReceiptFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmRevisionCode.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmRevisionCodeFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmSignatory.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmSignatoryFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmSpecialLevy.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmSpecialLevyFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmSurchargeInterest.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmSurchargeInterestFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmTaxCode.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmTaxCodeFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmTransactionCode.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmTransactionCodeFinder.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.vbproj.GenerateResource.Cache
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.dll
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.xml
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.pdb
+G:\Malaybalay City\IRGS2011\Utility\bin\Release\Utility.dll
+G:\Malaybalay City\IRGS2011\Utility\bin\Release\Utility.pdb
+G:\Malaybalay City\IRGS2011\Utility\bin\Release\Utility.xml
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\ResolveAssemblyReference.cache
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.Resources.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmAccountableForm.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmAccountableFormFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmAssessmentLevel.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmAssessmentLevelFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmBank.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmBankFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmBusinessCategory.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmBusinessCategoryFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmBusinessRequirements.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmBusinessRequirementsFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmBusinessSchedule.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmBusinessScheduleFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmBusinessType.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmBusinessTypeFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmClassification.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmClassificationFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmCollectionType.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmCollectionTypeFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmCollector.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmCollectorFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmDescriptionCode.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmDescriptionCodeFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmExpenditure.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmExpenditureFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmFund.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmFundFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmInspector.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmInspectorFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmMemoranda.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmMemorandaFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmPermitFee.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmPermitFeeFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmPropertyClassification.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmPropertyClassificationFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmPropertyType.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmPropertyTypeFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmReceipt.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmReceiptFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmRevisionCode.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmRevisionCodeFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmSignatory.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmSignatoryFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmSpecialLevy.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmSpecialLevyFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmSurchargeInterest.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmSurchargeInterestFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmTaxCode.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmTaxCodeFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmTransactionCode.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.frmTransactionCodeFinder.resources
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.vbproj.GenerateResource.Cache
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.dll
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.xml
+G:\Malaybalay City\IRGS2011\Utility\obj\Release\Utility.pdb
+D:\BACKUP\IRGS2011\Utility\bin\Release\Utility.dll
+D:\BACKUP\IRGS2011\Utility\bin\Release\Utility.pdb
+D:\BACKUP\IRGS2011\Utility\bin\Release\Utility.xml
+D:\BACKUP\IRGS2011\Utility\obj\Release\ResolveAssemblyReference.cache
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.Resources.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmAccountableForm.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmAccountableFormFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmAssessmentLevel.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmAssessmentLevelFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmBank.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmBankFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmBusinessCategory.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmBusinessCategoryFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmBusinessRequirements.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmBusinessRequirementsFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmBusinessSchedule.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmBusinessScheduleFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmBusinessType.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmBusinessTypeFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmClassification.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmClassificationFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmCollectionType.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmCollectionTypeFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmCollector.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmCollectorFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmDescriptionCode.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmDescriptionCodeFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmExpenditure.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmExpenditureFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmFund.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmFundFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmInspector.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmInspectorFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmMemoranda.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmMemorandaFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmPermitFee.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmPermitFeeFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmPropertyClassification.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmPropertyClassificationFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmPropertyType.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmPropertyTypeFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmReceipt.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmReceiptFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmRevisionCode.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmRevisionCodeFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmSignatory.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmSignatoryFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmSpecialLevy.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmSpecialLevyFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmSurchargeInterest.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmSurchargeInterestFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmTaxCode.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmTaxCodeFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmTransactionCode.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.frmTransactionCodeFinder.resources
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.vbproj.GenerateResource.Cache
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.dll
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.xml
+D:\BACKUP\IRGS2011\Utility\obj\Release\Utility.pdb
+E:\Documents\WORK\IRGS2011\Utility\bin\Release\Utility.dll
+E:\Documents\WORK\IRGS2011\Utility\bin\Release\Utility.pdb
+E:\Documents\WORK\IRGS2011\Utility\bin\Release\Utility.xml
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\ResolveAssemblyReference.cache
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.Resources.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmAccountableForm.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmAccountableFormFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmAssessmentLevel.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmAssessmentLevelFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmBank.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmBankFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmBusinessCategory.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmBusinessCategoryFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmBusinessRequirements.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmBusinessRequirementsFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmBusinessSchedule.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmBusinessScheduleFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmBusinessType.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmBusinessTypeFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmClassification.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmClassificationFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmCollectionType.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmCollectionTypeFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmCollector.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmCollectorFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmDescriptionCode.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmDescriptionCodeFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmExpenditure.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmExpenditureFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmFund.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmFundFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmInspector.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmInspectorFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmMemoranda.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmMemorandaFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmPermitFee.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmPermitFeeFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmPropertyClassification.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmPropertyClassificationFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmPropertyType.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmPropertyTypeFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmReceipt.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmReceiptFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmRevisionCode.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmRevisionCodeFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmSignatory.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmSignatoryFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmSpecialLevy.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmSpecialLevyFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmSurchargeInterest.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmSurchargeInterestFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmTaxCode.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmTaxCodeFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmTransactionCode.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.frmTransactionCodeFinder.resources
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.vbproj.GenerateResource.Cache
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.dll
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.xml
+E:\Documents\WORK\IRGS2011\Utility\obj\Release\Utility.pdb
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\bin\Release\Utility.dll
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\bin\Release\Utility.pdb
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\bin\Release\Utility.xml
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\ResolveAssemblyReference.cache
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.Resources.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmAccountableForm.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmAccountableFormFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmAssessmentLevel.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmAssessmentLevelFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBank.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBankFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessCategory.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessCategoryFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessRequirements.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessRequirementsFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessSchedule.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessScheduleFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessType.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessTypeFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmClassification.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmClassificationFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmCollectionType.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmCollectionTypeFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmCollector.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmCollectorFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmDescriptionCode.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmDescriptionCodeFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmExpenditure.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmExpenditureFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmFund.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmFundFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmInspector.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmInspectorFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmMemoranda.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmMemorandaFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmPermitFee.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmPermitFeeFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmPropertyClassification.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmPropertyClassificationFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmPropertyType.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmPropertyTypeFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmReceipt.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmReceiptFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmRevisionCode.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmRevisionCodeFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmSignatory.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmSignatoryFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmSpecialLevy.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmSpecialLevyFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmSurchargeInterest.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmSurchargeInterestFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmTaxCode.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmTaxCodeFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmTransactionCode.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmTransactionCodeFinder.resources
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.vbproj.GenerateResource.Cache
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.dll
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.xml
+C:\Users\TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\bin\Release\Utility.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\bin\Release\Utility.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\bin\Release\Utility.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.Resources.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmAccountableForm.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmAccountableFormFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmAssessmentLevel.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmAssessmentLevelFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBank.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBankFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessCategory.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessCategoryFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessRequirements.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessRequirementsFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessSchedule.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessScheduleFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessType.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmBusinessTypeFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmClassification.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmClassificationFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmCollectionType.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmCollectionTypeFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmCollector.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmCollectorFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmDescriptionCode.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmDescriptionCodeFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmExpenditure.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmExpenditureFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmFund.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmFundFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmInspector.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmInspectorFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmMemoranda.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmMemorandaFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmPermitFee.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmPermitFeeFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmPropertyClassification.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmPropertyClassificationFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmPropertyType.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmPropertyTypeFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmReceipt.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmReceiptFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmRevisionCode.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmRevisionCodeFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmSignatory.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmSignatoryFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmSpecialLevy.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmSpecialLevyFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmSurchargeInterest.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmSurchargeInterestFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmTaxCode.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmTaxCodeFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmTransactionCode.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.frmTransactionCodeFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.vbproj.GenerateResource.Cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\Release\Utility.pdb
+D:\IRGS2011\Utility\bin\Release\Utility.dll
+D:\IRGS2011\Utility\bin\Release\Utility.pdb
+D:\IRGS2011\Utility\bin\Release\Utility.xml
+D:\IRGS2011\Utility\obj\Release\ResolveAssemblyReference.cache
+D:\IRGS2011\Utility\obj\Release\Utility.Resources.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmAccountableForm.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmAccountableFormFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmAssessmentLevel.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmAssessmentLevelFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmBank.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmBankFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmBusinessCategory.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmBusinessCategoryFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmBusinessRequirements.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmBusinessRequirementsFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmBusinessSchedule.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmBusinessScheduleFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmBusinessType.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmBusinessTypeFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmClassification.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmClassificationFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmCollectionType.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmCollectionTypeFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmCollector.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmCollectorFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmDescriptionCode.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmDescriptionCodeFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmExpenditure.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmExpenditureFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmFund.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmFundFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmInspector.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmInspectorFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmMemoranda.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmMemorandaFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmPermitFee.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmPermitFeeFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmPropertyClassification.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmPropertyClassificationFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmPropertyType.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmPropertyTypeFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmReceipt.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmReceiptFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmRevisionCode.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmRevisionCodeFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmSignatory.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmSignatoryFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmSpecialLevy.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmSpecialLevyFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmSurchargeInterest.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmSurchargeInterestFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmTaxCode.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmTaxCodeFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmTransactionCode.resources
+D:\IRGS2011\Utility\obj\Release\Utility.frmTransactionCodeFinder.resources
+D:\IRGS2011\Utility\obj\Release\Utility.vbproj.GenerateResource.Cache
+D:\IRGS2011\Utility\obj\Release\Utility.dll
+D:\IRGS2011\Utility\obj\Release\Utility.xml
+D:\IRGS2011\Utility\obj\Release\Utility.pdb

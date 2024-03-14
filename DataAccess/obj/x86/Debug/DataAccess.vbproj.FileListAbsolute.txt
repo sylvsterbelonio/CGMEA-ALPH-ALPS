@@ -1,0 +1,203 @@
+C:\Users\Sylvster\Desktop\IRGS2011\DataAccess\bin\x86\Debug\DataAccess.dll
+C:\Users\Sylvster\Desktop\IRGS2011\DataAccess\bin\x86\Debug\DataAccess.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\DataAccess\bin\x86\Debug\DataAccess.xml
+C:\Users\Sylvster\Desktop\IRGS2011\DataAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\IRGS2011\DataAccess\obj\x86\Debug\DataAccess.frmAbout.resources
+C:\Users\Sylvster\Desktop\IRGS2011\DataAccess\obj\x86\Debug\DataAccess.frmChangePassword.resources
+C:\Users\Sylvster\Desktop\IRGS2011\DataAccess\obj\x86\Debug\DataAccess.frmConnectionManager.resources
+C:\Users\Sylvster\Desktop\IRGS2011\DataAccess\obj\x86\Debug\DataAccess.frmCreateNewDatabase.resources
+C:\Users\Sylvster\Desktop\IRGS2011\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseBackup.resources
+C:\Users\Sylvster\Desktop\IRGS2011\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseInformation.resources
+C:\Users\Sylvster\Desktop\IRGS2011\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseRestore.resources
+C:\Users\Sylvster\Desktop\IRGS2011\DataAccess\obj\x86\Debug\DataAccess.frmLogin.resources
+C:\Users\Sylvster\Desktop\IRGS2011\DataAccess\obj\x86\Debug\DataAccess.frmLoginOverride.resources
+C:\Users\Sylvster\Desktop\IRGS2011\DataAccess\obj\x86\Debug\DataAccess.frmSplashScreen.resources
+C:\Users\Sylvster\Desktop\IRGS2011\DataAccess\obj\x86\Debug\DataAccess.frmSystemLock.resources
+C:\Users\Sylvster\Desktop\IRGS2011\DataAccess\obj\x86\Debug\DataAccess.frmWelcomeScreen.resources
+C:\Users\Sylvster\Desktop\IRGS2011\DataAccess\obj\x86\Debug\DataAccess.Resources.resources
+C:\Users\Sylvster\Desktop\IRGS2011\DataAccess\obj\x86\Debug\DataAccess.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\IRGS2011\DataAccess\obj\x86\Debug\DataAccess.dll
+C:\Users\Sylvster\Desktop\IRGS2011\DataAccess\obj\x86\Debug\DataAccess.xml
+C:\Users\Sylvster\Desktop\IRGS2011\DataAccess\obj\x86\Debug\DataAccess.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\DataAccess.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\DataAccess.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\DataAccess.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MySql.Data.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MyTemplates.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\Power .NET 8.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MyTemplates.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MyTemplates.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmAbout.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmChangePassword.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmConnectionManager.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmCreateNewDatabase.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseBackup.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseInformation.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseRestore.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmLogin.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmLoginOverride.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmSplashScreen.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmSystemLock.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmWelcomeScreen.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.Resources.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\DataAccess.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\DataAccess.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\DataAccess.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MySql.Data.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MyTemplates.exe
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\Power .NET 8.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MyTemplates.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MyTemplates.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmAbout.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmChangePassword.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmConnectionManager.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmCreateNewDatabase.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseBackup.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseInformation.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseRestore.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmLogin.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmLoginOverride.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmSplashScreen.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmSystemLock.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmWelcomeScreen.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.Resources.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.vbproj.GenerateResource.Cache
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.xml
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.pdb
+E:\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\DataAccess.dll
+E:\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\DataAccess.pdb
+E:\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\DataAccess.xml
+E:\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MySql.Data.dll
+E:\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MyTemplates.exe
+E:\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\Power .NET 8.dll
+E:\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MyTemplates.pdb
+E:\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MyTemplates.xml
+E:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmAbout.resources
+E:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmChangePassword.resources
+E:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmConnectionManager.resources
+E:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmCreateNewDatabase.resources
+E:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseBackup.resources
+E:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseInformation.resources
+E:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseRestore.resources
+E:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmLogin.resources
+E:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmLoginOverride.resources
+E:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmSplashScreen.resources
+E:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmSystemLock.resources
+E:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmWelcomeScreen.resources
+E:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.Resources.resources
+E:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.vbproj.GenerateResource.Cache
+E:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.dll
+E:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.xml
+E:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\DataAccess.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\DataAccess.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\DataAccess.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MySql.Data.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MyTemplates.exe
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\Power .NET 8.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MyTemplates.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MyTemplates.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmAbout.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmChangePassword.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmConnectionManager.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmCreateNewDatabase.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseBackup.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseInformation.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseRestore.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmLogin.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmLoginOverride.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmSplashScreen.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmSystemLock.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmWelcomeScreen.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.Resources.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.vbproj.GenerateResource.Cache
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.xml
+D:\CGMEA new\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\DataAccess.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\DataAccess.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\DataAccess.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MySql.Data.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MyTemplates.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\Power .NET 8.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MyTemplates.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MyTemplates.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmAbout.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmChangePassword.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmConnectionManager.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmCreateNewDatabase.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseBackup.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseInformation.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseRestore.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmLogin.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmLoginOverride.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmSplashScreen.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmSystemLock.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmWelcomeScreen.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.Resources.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.vbproj.GenerateResource.Cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\DataAccess.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\DataAccess.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\DataAccess.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MySql.Data.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MyTemplates.exe
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\Power .NET 8.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MyTemplates.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MyTemplates.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmAbout.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmChangePassword.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmConnectionManager.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmCreateNewDatabase.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseBackup.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseInformation.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseRestore.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmLogin.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmLoginOverride.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmSplashScreen.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmSystemLock.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmWelcomeScreen.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.Resources.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.vbproj.GenerateResource.Cache
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.pdb
+D:\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\DataAccess.dll
+D:\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\DataAccess.pdb
+D:\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\DataAccess.xml
+D:\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MySql.Data.dll
+D:\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MyTemplates.dll
+D:\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\Power .NET 8.dll
+D:\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MyTemplates.pdb
+D:\CGMEA ALPH-ALPS\DataAccess\bin\x86\Debug\MyTemplates.xml
+D:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmAbout.resources
+D:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmChangePassword.resources
+D:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmConnectionManager.resources
+D:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmCreateNewDatabase.resources
+D:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseBackup.resources
+D:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseInformation.resources
+D:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmDatabaseRestore.resources
+D:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmLogin.resources
+D:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmLoginOverride.resources
+D:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmSplashScreen.resources
+D:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmSystemLock.resources
+D:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.frmWelcomeScreen.resources
+D:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.Resources.resources
+D:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.vbproj.GenerateResource.Cache
+D:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.dll
+D:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.xml
+D:\CGMEA ALPH-ALPS\DataAccess\obj\x86\Debug\DataAccess.pdb

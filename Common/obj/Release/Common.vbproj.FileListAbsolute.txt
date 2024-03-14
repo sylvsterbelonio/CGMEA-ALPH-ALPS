@@ -1,0 +1,131 @@
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Common\bin\Release\Common.dll
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Common\bin\Release\Common.pdb
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Common\bin\Release\Common.xml
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Common\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Common\obj\Release\Common.BlinkingControl.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Common\obj\Release\Common.ColorPicker.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Common\obj\Release\Common.ComboBoxDisplay.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Common\obj\Release\Common.FindReplace.FindReplaceDialog.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Common\obj\Release\Common.frmErrorDialog.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Common\obj\Release\Common.frmErrorDialogMoreInfo.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Common\obj\Release\Common.frmErrorDialogNoSend.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Common\obj\Release\Common.Resources.resources
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Common\obj\Release\Common.vbproj.GenerateResource.Cache
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Common\obj\Release\Common.dll
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Common\obj\Release\Common.xml
+D:\Users\Aldwin Galapon\Documents\Visual Studio 2008\Projects\IRGS2011\Common\obj\Release\Common.pdb
+G:\Malaybalay City\IRGS2011\Common\bin\Release\Common.dll
+G:\Malaybalay City\IRGS2011\Common\bin\Release\Common.pdb
+G:\Malaybalay City\IRGS2011\Common\bin\Release\Common.xml
+G:\Malaybalay City\IRGS2011\Common\obj\Release\ResolveAssemblyReference.cache
+G:\Malaybalay City\IRGS2011\Common\obj\Release\Common.BlinkingControl.resources
+G:\Malaybalay City\IRGS2011\Common\obj\Release\Common.ColorPicker.resources
+G:\Malaybalay City\IRGS2011\Common\obj\Release\Common.ComboBoxDisplay.resources
+G:\Malaybalay City\IRGS2011\Common\obj\Release\Common.FindReplace.FindReplaceDialog.resources
+G:\Malaybalay City\IRGS2011\Common\obj\Release\Common.frmErrorDialog.resources
+G:\Malaybalay City\IRGS2011\Common\obj\Release\Common.frmErrorDialogMoreInfo.resources
+G:\Malaybalay City\IRGS2011\Common\obj\Release\Common.frmErrorDialogNoSend.resources
+G:\Malaybalay City\IRGS2011\Common\obj\Release\Common.Resources.resources
+G:\Malaybalay City\IRGS2011\Common\obj\Release\Common.vbproj.GenerateResource.Cache
+G:\Malaybalay City\IRGS2011\Common\obj\Release\Common.dll
+G:\Malaybalay City\IRGS2011\Common\obj\Release\Common.xml
+G:\Malaybalay City\IRGS2011\Common\obj\Release\Common.pdb
+D:\BACKUP\IRGS2011\Common\bin\Release\Common.dll
+D:\BACKUP\IRGS2011\Common\bin\Release\Common.pdb
+D:\BACKUP\IRGS2011\Common\bin\Release\Common.xml
+D:\BACKUP\IRGS2011\Common\obj\Release\ResolveAssemblyReference.cache
+D:\BACKUP\IRGS2011\Common\obj\Release\Common.BlinkingControl.resources
+D:\BACKUP\IRGS2011\Common\obj\Release\Common.ColorPicker.resources
+D:\BACKUP\IRGS2011\Common\obj\Release\Common.ComboBoxDisplay.resources
+D:\BACKUP\IRGS2011\Common\obj\Release\Common.FindReplace.FindReplaceDialog.resources
+D:\BACKUP\IRGS2011\Common\obj\Release\Common.frmErrorDialog.resources
+D:\BACKUP\IRGS2011\Common\obj\Release\Common.frmErrorDialogMoreInfo.resources
+D:\BACKUP\IRGS2011\Common\obj\Release\Common.frmErrorDialogNoSend.resources
+D:\BACKUP\IRGS2011\Common\obj\Release\Common.Resources.resources
+D:\BACKUP\IRGS2011\Common\obj\Release\Common.vbproj.GenerateResource.Cache
+D:\BACKUP\IRGS2011\Common\obj\Release\Common.dll
+D:\BACKUP\IRGS2011\Common\obj\Release\Common.xml
+D:\BACKUP\IRGS2011\Common\obj\Release\Common.pdb
+C:\Documents and Settings\Sylvster Keiichi\Desktop\IRGS2011\Common\bin\Release\Common.dll
+C:\Documents and Settings\Sylvster Keiichi\Desktop\IRGS2011\Common\bin\Release\Common.pdb
+C:\Documents and Settings\Sylvster Keiichi\Desktop\IRGS2011\Common\bin\Release\Common.xml
+C:\Documents and Settings\Sylvster Keiichi\Desktop\IRGS2011\Common\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Sylvster Keiichi\Desktop\IRGS2011\Common\obj\Release\Common.BlinkingControl.resources
+C:\Documents and Settings\Sylvster Keiichi\Desktop\IRGS2011\Common\obj\Release\Common.ColorPicker.resources
+C:\Documents and Settings\Sylvster Keiichi\Desktop\IRGS2011\Common\obj\Release\Common.ComboBoxDisplay.resources
+C:\Documents and Settings\Sylvster Keiichi\Desktop\IRGS2011\Common\obj\Release\Common.FindReplace.FindReplaceDialog.resources
+C:\Documents and Settings\Sylvster Keiichi\Desktop\IRGS2011\Common\obj\Release\Common.frmErrorDialog.resources
+C:\Documents and Settings\Sylvster Keiichi\Desktop\IRGS2011\Common\obj\Release\Common.frmErrorDialogMoreInfo.resources
+C:\Documents and Settings\Sylvster Keiichi\Desktop\IRGS2011\Common\obj\Release\Common.frmErrorDialogNoSend.resources
+C:\Documents and Settings\Sylvster Keiichi\Desktop\IRGS2011\Common\obj\Release\Common.Resources.resources
+C:\Documents and Settings\Sylvster Keiichi\Desktop\IRGS2011\Common\obj\Release\Common.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Sylvster Keiichi\Desktop\IRGS2011\Common\obj\Release\Common.dll.licenses
+C:\Documents and Settings\Sylvster Keiichi\Desktop\IRGS2011\Common\obj\Release\Common.dll
+C:\Documents and Settings\Sylvster Keiichi\Desktop\IRGS2011\Common\obj\Release\Common.xml
+C:\Documents and Settings\Sylvster Keiichi\Desktop\IRGS2011\Common\obj\Release\Common.pdb
+D:\PROJECTS\IRGS2011\Common\bin\Release\Common.dll
+D:\PROJECTS\IRGS2011\Common\bin\Release\Common.pdb
+D:\PROJECTS\IRGS2011\Common\bin\Release\Common.xml
+D:\PROJECTS\IRGS2011\Common\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\IRGS2011\Common\obj\Release\Common.BlinkingControl.resources
+D:\PROJECTS\IRGS2011\Common\obj\Release\Common.ColorPicker.resources
+D:\PROJECTS\IRGS2011\Common\obj\Release\Common.ComboBoxDisplay.resources
+D:\PROJECTS\IRGS2011\Common\obj\Release\Common.FindReplace.FindReplaceDialog.resources
+D:\PROJECTS\IRGS2011\Common\obj\Release\Common.frmErrorDialog.resources
+D:\PROJECTS\IRGS2011\Common\obj\Release\Common.frmErrorDialogMoreInfo.resources
+D:\PROJECTS\IRGS2011\Common\obj\Release\Common.frmErrorDialogNoSend.resources
+D:\PROJECTS\IRGS2011\Common\obj\Release\Common.Resources.resources
+D:\PROJECTS\IRGS2011\Common\obj\Release\Common.vbproj.GenerateResource.Cache
+D:\PROJECTS\IRGS2011\Common\obj\Release\Common.dll.licenses
+D:\PROJECTS\IRGS2011\Common\obj\Release\Common.dll
+D:\PROJECTS\IRGS2011\Common\obj\Release\Common.xml
+D:\PROJECTS\IRGS2011\Common\obj\Release\Common.pdb
+D:\PROJECTS\APPLICATION\IRGS2011\Common\obj\Release\Common.xml
+D:\PROJECTS\APPLICATION\IRGS2011\Common\obj\Release\Common.pdb
+D:\PROJECTS\APPLICATION\IRGS2011\Common\obj\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\APPLICATION\IRGS2011\Common\obj\Release\Common.BlinkingControl.resources
+D:\PROJECTS\APPLICATION\IRGS2011\Common\obj\Release\Common.ColorPicker.resources
+D:\PROJECTS\APPLICATION\IRGS2011\Common\obj\Release\Common.ComboBoxDisplay.resources
+D:\PROJECTS\APPLICATION\IRGS2011\Common\obj\Release\Common.FindReplace.FindReplaceDialog.resources
+D:\PROJECTS\APPLICATION\IRGS2011\Common\obj\Release\Common.frmErrorDialog.resources
+D:\PROJECTS\APPLICATION\IRGS2011\Common\obj\Release\Common.frmErrorDialogMoreInfo.resources
+D:\PROJECTS\APPLICATION\IRGS2011\Common\obj\Release\Common.frmErrorDialogNoSend.resources
+D:\PROJECTS\APPLICATION\IRGS2011\Common\obj\Release\Common.Resources.resources
+D:\PROJECTS\APPLICATION\IRGS2011\Common\obj\Release\Common.Form1.resources
+D:\PROJECTS\APPLICATION\IRGS2011\Common\obj\Release\Common.vbproj.GenerateResource.Cache
+D:\PROJECTS\APPLICATION\IRGS2011\Common\obj\Release\Common.exe.licenses
+C:\Users\MarSyl\Desktop\IRGS2011\Common\bin\Release\Common.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Common\bin\Release\Common.pdb
+C:\Users\MarSyl\Desktop\IRGS2011\Common\bin\Release\Common.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MarSyl\Desktop\IRGS2011\Common\obj\Release\Common.BlinkingControl.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Common\obj\Release\Common.ColorPicker.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Common\obj\Release\Common.ComboBoxDisplay.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Common\obj\Release\Common.FindReplace.FindReplaceDialog.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Common\obj\Release\Common.frmErrorDialog.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Common\obj\Release\Common.frmErrorDialogMoreInfo.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Common\obj\Release\Common.frmErrorDialogNoSend.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Common\obj\Release\Common.Resources.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Common\obj\Release\Common.vbproj.GenerateResource.Cache
+C:\Users\MarSyl\Desktop\IRGS2011\Common\obj\Release\Common.dll.licenses
+C:\Users\MarSyl\Desktop\IRGS2011\Common\obj\Release\Common.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Common\obj\Release\Common.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Common\obj\Release\Common.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Common\bin\Release\Common.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Common\bin\Release\Common.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Common\bin\Release\Common.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Common\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\IRGS2011\Common\obj\Release\Common.BlinkingControl.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Common\obj\Release\Common.ColorPicker.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Common\obj\Release\Common.ComboBoxDisplay.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Common\obj\Release\Common.FindReplace.FindReplaceDialog.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Common\obj\Release\Common.frmErrorDialog.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Common\obj\Release\Common.frmErrorDialogMoreInfo.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Common\obj\Release\Common.frmErrorDialogNoSend.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Common\obj\Release\Common.Resources.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Common\obj\Release\Common.Form1.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Common\obj\Release\Common.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\IRGS2011\Common\obj\Release\Common.dll.licenses
+C:\Users\Sylvster\Desktop\IRGS2011\Common\obj\Release\Common.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Common\obj\Release\Common.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Common\obj\Release\Common.pdb

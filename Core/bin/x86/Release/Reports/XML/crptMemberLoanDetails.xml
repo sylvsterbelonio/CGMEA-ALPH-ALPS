@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<crptMemberLoanDetails>
+  <xs:schema id="crptMemberLoanDetails" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="crptMemberLoanDetails" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Member">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="memberId" type="xs:long" minOccurs="0" />
+                <xs:element name="memberNo" type="xs:string" minOccurs="0" />
+                <xs:element name="lguName" type="xs:string" minOccurs="0" />
+                <xs:element name="departmentName" type="xs:string" minOccurs="0" />
+                <xs:element name="firstName" type="xs:string" minOccurs="0" />
+                <xs:element name="middleName" type="xs:string" minOccurs="0" />
+                <xs:element name="lastName" type="xs:string" minOccurs="0" />
+                <xs:element name="suffixName" type="xs:string" minOccurs="0" />
+                <xs:element name="jobDescription" type="xs:string" minOccurs="0" />
+                <xs:element name="appointmentStatus" type="xs:string" minOccurs="0" />
+                <xs:element name="memberQualification" type="xs:string" minOccurs="0" />
+                <xs:element name="salaryAmount" type="xs:double" minOccurs="0" />
+                <xs:element name="memberPhoto" type="xs:base64Binary" minOccurs="0" />
+                <xs:element name="birthFl" type="xs:integer" minOccurs="0" />
+                <xs:element name="memberBirthdate" type="xs:string" minOccurs="0" />
+                <xs:element name="memberGender" type="xs:string" minOccurs="0" />
+                <xs:element name="maritalStatus" type="xs:string" minOccurs="0" />
+                <xs:element name="homeTel" type="xs:string" minOccurs="0" />
+                <xs:element name="workTel" type="xs:string" minOccurs="0" />
+                <xs:element name="mobileNo" type="xs:string" minOccurs="0" />
+                <xs:element name="emailAddress" type="xs:string" minOccurs="0" />
+                <xs:element name="homeAddress" type="xs:string" minOccurs="0" />
+                <xs:element name="taxIdNo" type="xs:string" minOccurs="0" />
+                <xs:element name="sssNo" type="xs:string" minOccurs="0" />
+                <xs:element name="hiredFl" type="xs:integer" minOccurs="0" />
+                <xs:element name="hireDt" type="xs:string" minOccurs="0" />
+                <xs:element name="activeFl" type="xs:integer" minOccurs="0" />
+                <xs:element name="memberFl" type="xs:integer" minOccurs="0" />
+                <xs:element name="memberBirthPlace" type="xs:string" minOccurs="0" />
+                <xs:element name="memberCitizenship" type="xs:string" minOccurs="0" />
+                <xs:element name="memberHeight" type="xs:string" minOccurs="0" />
+                <xs:element name="memberWeight" type="xs:string" minOccurs="0" />
+                <xs:element name="memberBloodType" type="xs:string" minOccurs="0" />
+                <xs:element name="pagibigIDno" type="xs:string" minOccurs="0" />
+                <xs:element name="philHealthNo" type="xs:string" minOccurs="0" />
+                <xs:element name="retireFl" type="xs:integer" minOccurs="0" />
+                <xs:element name="appointmentFl" type="xs:integer" minOccurs="0" />
+                <xs:element name="appointmentDt" type="xs:string" minOccurs="0" />
+                <xs:element name="oathFl" type="xs:integer" minOccurs="0" />
+                <xs:element name="oathDt" type="xs:string" minOccurs="0" />
+                <xs:element name="cgmeaMembershipFl" type="xs:integer" minOccurs="0" />
+                <xs:element name="cgmeaMembershipDt" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="LoanDetails">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="loanId" type="xs:long" minOccurs="0" />
+                <xs:element name="loanNo" type="xs:long" minOccurs="0" />
+                <xs:element name="memberId" type="xs:long" minOccurs="0" />
+                <xs:element name="memberName" type="xs:string" minOccurs="0" />
+                <xs:element name="department" type="xs:string" minOccurs="0" />
+                <xs:element name="capitalAmount" type="xs:double" minOccurs="0" />
+                <xs:element name="loanRemarks" type="xs:string" minOccurs="0" />
+                <xs:element name="loanStatus" type="xs:string" minOccurs="0" />
+                <xs:element name="voucherNo" type="xs:string" minOccurs="0" />
+                <xs:element name="checkNo" type="xs:string" minOccurs="0" />
+                <xs:element name="loanDt" type="xs:string" minOccurs="0" />
+                <xs:element name="loanType" type="xs:string" minOccurs="0" />
+                <xs:element name="principalAmount" type="xs:double" minOccurs="0" />
+                <xs:element name="valueDt" type="xs:string" minOccurs="0" />
+                <xs:element name="loanTerm" type="xs:long" minOccurs="0" />
+                <xs:element name="interestRate" type="xs:double" minOccurs="0" />
+                <xs:element name="monthlyPayment" type="xs:double" minOccurs="0" />
+                <xs:element name="loanInterest" type="xs:double" minOccurs="0" />
+                <xs:element name="rebates" type="xs:double" minOccurs="0" />
+                <xs:element name="loanBalance" type="xs:double" minOccurs="0" />
+                <xs:element name="serviceFee" type="xs:double" minOccurs="0" />
+                <xs:element name="cisp" type="xs:double" minOccurs="0" />
+                <xs:element name="cispUnused" type="xs:double" minOccurs="0" />
+                <xs:element name="maturityDt" type="xs:string" minOccurs="0" />
+                <xs:element name="signedDt" type="xs:string" minOccurs="0" />
+                <xs:element name="approvedBy" type="xs:string" minOccurs="0" />
+                <xs:element name="approvedDt" type="xs:string" minOccurs="0" />
+                <xs:element name="releasedBy" type="xs:string" minOccurs="0" />
+                <xs:element name="releasedDt" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="LoanSchedules">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="scheduleId" type="xs:long" minOccurs="0" />
+                <xs:element name="loanId" type="xs:long" minOccurs="0" />
+                <xs:element name="scheduleDt" type="xs:string" minOccurs="0" />
+                <xs:element name="monthlyInterest" type="xs:double" minOccurs="0" />
+                <xs:element name="monthlyPrincipal" type="xs:double" minOccurs="0" />
+                <xs:element name="totalAmount" type="xs:double" minOccurs="0" />
+                <xs:element name="billingId" type="xs:long" minOccurs="0" />
+                <xs:element name="paymentId" type="xs:long" minOccurs="0" />
+                <xs:element name="orNo" type="xs:string" minOccurs="0" />
+                <xs:element name="orAmount" type="xs:double" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+</crptMemberLoanDetails>

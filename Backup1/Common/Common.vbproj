@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D1268F11-E19A-4416-9545-CAA51F4C43E9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Common</RootNamespace>
+    <AssemblyName>Common</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <StartupObject>
+    </StartupObject>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Common.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Common.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>Common.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>Common.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Infragistics2.Win.UltraWinEditors.v7.3, Version=7.3.20073.38, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics2.Win.v7.3, Version=7.3.20073.38, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="MySql.Data, Version=5.2.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Core\Resources\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\clsCommon.vb" />
+    <Compile Include="Classes\clsCustomExceptionHandler.vb" />
+    <Compile Include="Classes\clsFTP.vb" />
+    <Compile Include="Controls\BlinkingControl.designer.vb">
+      <DependentUpon>BlinkingControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\BlinkingControl.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\CalendarColumn.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\CheckBoxDisplayAdapter.vb" />
+    <Compile Include="Controls\ColorPicker.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\ComboBoxDisplay.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\ComboBoxDisplayAdapter.vb" />
+    <Compile Include="Controls\Declares.vb" />
+    <Compile Include="Controls\EditableComboBoxDisplay.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\FindDirection.vb" />
+    <Compile Include="Controls\FindReplaceDialog.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\FindReplaceDialogType.vb" />
+    <Compile Include="Controls\FindReplaceEnum.vb" />
+    <Compile Include="Controls\FindReplaceEventArgs.vb" />
+    <Compile Include="Controls\IDropDownDisplayAdapter.vb" />
+    <Compile Include="Controls\IFindReplace.vb" />
+    <Compile Include="Controls\ListViewComboBox.designer.vb">
+      <DependentUpon>ListViewComboBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ListViewComboBox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\OwnerWindow.vb" />
+    <Compile Include="Controls\StructFindReplace.vb" />
+    <Compile Include="Controls\ToolStripDateTimeStatusLabel.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\WindowsFormsEditorService.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmErrorDialog.designer.vb">
+      <DependentUpon>frmErrorDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmErrorDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmErrorDialogMoreInfo.designer.vb">
+      <DependentUpon>frmErrorDialogMoreInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmErrorDialogMoreInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmErrorDialogNoSend.designer.vb">
+      <DependentUpon>frmErrorDialogNoSend.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmErrorDialogNoSend.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\AssemblyInfo.vb" />
+    <Compile Include="Modules\modApp.vb" />
+    <Compile Include="Modules\modPublics.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Native\clsNative.vb" />
+    <Compile Include="Utils\clsWindowsEnum.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controls\BlinkingControl.resx">
+      <DependentUpon>BlinkingControl.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ColorPicker.resx">
+      <DependentUpon>ColorPicker.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ComboBoxDisplay.resx">
+      <DependentUpon>ComboBoxDisplay.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\FindReplaceDialog.resx">
+      <DependentUpon>FindReplaceDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmErrorDialog.resx">
+      <DependentUpon>frmErrorDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmErrorDialogMoreInfo.resx">
+      <DependentUpon>frmErrorDialogMoreInfo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmErrorDialogNoSend.resx">
+      <DependentUpon>frmErrorDialogNoSend.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="Resources\techsupport.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_small.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\find.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blank-user.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page-first.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page-first-disabled.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page-last.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page-last-disabled.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page-next.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page-next-disabled.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page-prev.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="Resources\page-prev-disabled.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Messaging\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

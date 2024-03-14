@@ -1,0 +1,44 @@
+C:\Users\Sylvster\Desktop\CGMEA\MyTemplates\bin\Release\MyTemplates.exe
+C:\Users\Sylvster\Desktop\CGMEA\MyTemplates\bin\Release\MyTemplates.pdb
+C:\Users\Sylvster\Desktop\CGMEA\MyTemplates\bin\Release\MyTemplates.xml
+C:\Users\Sylvster\Desktop\CGMEA\MyTemplates\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\CGMEA\MyTemplates\obj\Release\MyTemplates.Form1.resources
+C:\Users\Sylvster\Desktop\CGMEA\MyTemplates\obj\Release\MyTemplates.Resources.resources
+C:\Users\Sylvster\Desktop\CGMEA\MyTemplates\obj\Release\MyTemplates.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\CGMEA\MyTemplates\obj\Release\MyTemplates.exe.licenses
+C:\Users\Sylvster\Desktop\CGMEA\MyTemplates\obj\Release\MyTemplates.exe
+C:\Users\Sylvster\Desktop\CGMEA\MyTemplates\obj\Release\MyTemplates.xml
+C:\Users\Sylvster\Desktop\CGMEA\MyTemplates\obj\Release\MyTemplates.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\bin\Release\MyTemplates.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\bin\Release\MyTemplates.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\bin\Release\MyTemplates.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\Release\MyTemplates.Form1.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\Release\MyTemplates.Resources.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\Release\MyTemplates.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\Release\MyTemplates.exe.licenses
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\Release\MyTemplates.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\Release\MyTemplates.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\MyTemplates\obj\Release\MyTemplates.pdb
+E:\CGMEA ALPH-ALPS\MyTemplates\bin\Release\MyTemplates.exe
+E:\CGMEA ALPH-ALPS\MyTemplates\bin\Release\MyTemplates.pdb
+E:\CGMEA ALPH-ALPS\MyTemplates\bin\Release\MyTemplates.xml
+E:\CGMEA ALPH-ALPS\MyTemplates\obj\Release\ResolveAssemblyReference.cache
+E:\CGMEA ALPH-ALPS\MyTemplates\obj\Release\MyTemplates.Form1.resources
+E:\CGMEA ALPH-ALPS\MyTemplates\obj\Release\MyTemplates.Resources.resources
+E:\CGMEA ALPH-ALPS\MyTemplates\obj\Release\MyTemplates.vbproj.GenerateResource.Cache
+E:\CGMEA ALPH-ALPS\MyTemplates\obj\Release\MyTemplates.exe.licenses
+E:\CGMEA ALPH-ALPS\MyTemplates\obj\Release\MyTemplates.exe
+E:\CGMEA ALPH-ALPS\MyTemplates\obj\Release\MyTemplates.xml
+E:\CGMEA ALPH-ALPS\MyTemplates\obj\Release\MyTemplates.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\bin\Release\MyTemplates.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\bin\Release\MyTemplates.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\bin\Release\MyTemplates.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\Release\ResolveAssemblyReference.cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\Release\MyTemplates.Form1.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\Release\MyTemplates.Resources.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\Release\MyTemplates.vbproj.GenerateResource.Cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\Release\MyTemplates.exe.licenses
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\Release\MyTemplates.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\Release\MyTemplates.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\MyTemplates\obj\Release\MyTemplates.pdb

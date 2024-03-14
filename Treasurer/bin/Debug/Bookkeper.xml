@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Bookkeper
+</name>
+</assembly>
+<members>
+<member name="M:Bookkeper.modPublics.AddSlashes(System.String)">
+	<summary>
+ Quote string with slashes
+ </summary>
+	<param name="InputTxt">Text string need to be escape with slashes</param>
+</member><member name="P:Bookkeper.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Bookkeper.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Bookkeper.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

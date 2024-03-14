@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<crptMemberContributionList>
+  <xs:schema id="crptMemberContributionList" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="crptMemberContributionList" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="MemberContribution">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="memberNo" type="xs:string" minOccurs="0" />
+                <xs:element name="memberName" type="xs:string" minOccurs="0" />
+                <xs:element name="contributionDt" type="xs:string" minOccurs="0" />
+                <xs:element name="capitalContribution" type="xs:double" minOccurs="0" />
+                <xs:element name="pabaon" type="xs:double" minOccurs="0" />
+                <xs:element name="mortuary" type="xs:double" minOccurs="0" />
+                <xs:element name="pSLink" type="xs:double" minOccurs="0" />
+                <xs:element name="totalAmount" type="xs:double" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="SystemUser">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="userId" type="xs:long" minOccurs="0" />
+                <xs:element name="roleId" type="xs:long" minOccurs="0" />
+                <xs:element name="roleName" type="xs:string" minOccurs="0" />
+                <xs:element name="userName" type="xs:string" minOccurs="0" />
+                <xs:element name="password" type="xs:string" minOccurs="0" />
+                <xs:element name="memberId" type="xs:long" minOccurs="0" />
+                <xs:element name="memberNo" type="xs:string" minOccurs="0" />
+                <xs:element name="firstName" type="xs:string" minOccurs="0" />
+                <xs:element name="middleName" type="xs:string" minOccurs="0" />
+                <xs:element name="lastName" type="xs:string" minOccurs="0" />
+                <xs:element name="jobDescription" type="xs:string" minOccurs="0" />
+                <xs:element name="memberPhoto" type="xs:base64Binary" minOccurs="0" />
+                <xs:element name="memberBirthdate" type="xs:string" minOccurs="0" />
+                <xs:element name="memberGender" type="xs:string" minOccurs="0" />
+                <xs:element name="maritalStatus" type="xs:string" minOccurs="0" />
+                <xs:element name="activeFl" type="xs:byte" minOccurs="0" />
+                <xs:element name="memberActiveFl" type="xs:int" minOccurs="0" />
+                <xs:element name="updatedDt" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+</crptMemberContributionList>

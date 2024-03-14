@@ -1,0 +1,95 @@
+D:\CGMEA\Membership\bin\x86\Release\Membership.dll
+D:\CGMEA\Membership\bin\x86\Release\Membership.pdb
+D:\CGMEA\Membership\bin\x86\Release\Membership.xml
+D:\CGMEA\Membership\bin\x86\Release\Common.dll
+D:\CGMEA\Membership\bin\x86\Release\DataAccess.dll
+D:\CGMEA\Membership\bin\x86\Release\Location.dll
+D:\CGMEA\Membership\bin\x86\Release\MySql.Data.dll
+D:\CGMEA\Membership\bin\x86\Release\Personnel.dll
+D:\CGMEA\Membership\bin\x86\Release\MyTemplates.exe
+D:\CGMEA\Membership\bin\x86\Release\Power .NET 8.dll
+D:\CGMEA\Membership\bin\x86\Release\Location.pdb
+D:\CGMEA\Membership\bin\x86\Release\Location.xml
+D:\CGMEA\Membership\bin\x86\Release\Personnel.pdb
+D:\CGMEA\Membership\bin\x86\Release\Personnel.xml
+D:\CGMEA\Membership\bin\x86\Release\Common.pdb
+D:\CGMEA\Membership\bin\x86\Release\Common.xml
+D:\CGMEA\Membership\bin\x86\Release\DataAccess.pdb
+D:\CGMEA\Membership\bin\x86\Release\DataAccess.xml
+D:\CGMEA\Membership\bin\x86\Release\MyTemplates.pdb
+D:\CGMEA\Membership\bin\x86\Release\MyTemplates.xml
+D:\CGMEA\Membership\obj\x86\Release\ResolveAssemblyReference.cache
+D:\CGMEA\Membership\obj\x86\Release\Membership.frmMembersInfoAndAccounts.resources
+D:\CGMEA\Membership\obj\x86\Release\Membership.frmMembersInfoAndAccountsFinder.resources
+D:\CGMEA\Membership\obj\x86\Release\Membership.Resources.resources
+D:\CGMEA\Membership\obj\x86\Release\Membership.vbproj.GenerateResource.Cache
+D:\CGMEA\Membership\obj\x86\Release\Membership.dll.licenses
+D:\CGMEA\Membership\obj\x86\Release\Membership.dll
+D:\CGMEA\Membership\obj\x86\Release\Membership.xml
+D:\CGMEA\Membership\obj\x86\Release\Membership.pdb
+E:\CGMEA\Membership\bin\x86\Release\Membership.dll
+E:\CGMEA\Membership\bin\x86\Release\Membership.pdb
+E:\CGMEA\Membership\bin\x86\Release\Membership.xml
+E:\CGMEA\Membership\bin\x86\Release\Common.dll
+E:\CGMEA\Membership\bin\x86\Release\DataAccess.dll
+E:\CGMEA\Membership\bin\x86\Release\Location.dll
+E:\CGMEA\Membership\bin\x86\Release\MySql.Data.dll
+E:\CGMEA\Membership\bin\x86\Release\Personnel.dll
+E:\CGMEA\Membership\bin\x86\Release\MyTemplates.exe
+E:\CGMEA\Membership\bin\x86\Release\Power .NET 8.dll
+E:\CGMEA\Membership\bin\x86\Release\Location.pdb
+E:\CGMEA\Membership\bin\x86\Release\Location.xml
+E:\CGMEA\Membership\bin\x86\Release\Personnel.pdb
+E:\CGMEA\Membership\bin\x86\Release\Personnel.xml
+E:\CGMEA\Membership\bin\x86\Release\Common.pdb
+E:\CGMEA\Membership\bin\x86\Release\Common.xml
+E:\CGMEA\Membership\bin\x86\Release\DataAccess.pdb
+E:\CGMEA\Membership\bin\x86\Release\DataAccess.xml
+E:\CGMEA\Membership\bin\x86\Release\MyTemplates.pdb
+E:\CGMEA\Membership\bin\x86\Release\MyTemplates.xml
+E:\CGMEA\Membership\obj\x86\Release\ResolveAssemblyReference.cache
+E:\CGMEA\Membership\obj\x86\Release\Membership.Resources.resources
+E:\CGMEA\Membership\obj\x86\Release\Membership.vbproj.GenerateResource.Cache
+E:\CGMEA\Membership\obj\x86\Release\Membership.dll.licenses
+E:\CGMEA\Membership\obj\x86\Release\Membership.dll
+E:\CGMEA\Membership\obj\x86\Release\Membership.xml
+E:\CGMEA\Membership\obj\x86\Release\Membership.pdb
+E:\CGMEA\Membership\bin\x86\Release\Bookkeper.exe
+E:\CGMEA\Membership\bin\x86\Release\Utility.dll
+E:\CGMEA\Membership\bin\x86\Release\Bookkeper.pdb
+E:\CGMEA\Membership\bin\x86\Release\Bookkeper.xml
+E:\CGMEA\Membership\obj\x86\Release\Membership.frmMemberInfoAndAccounts.resources
+E:\CGMEA\Membership\obj\x86\Release\Membership.frmMemberInfoAndAccountsFinder.resources
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\Membership.dll
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\Membership.pdb
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\Membership.xml
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\Bookkeper.dll
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\Common.dll
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\DataAccess.dll
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\Location.dll
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\MySql.Data.dll
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\Personnel.dll
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\MyTemplates.exe
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\Utility.dll
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\Power .NET 8.dll
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\Location.pdb
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\Location.xml
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\Personnel.pdb
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\Personnel.xml
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\Common.pdb
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\Common.xml
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\DataAccess.pdb
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\DataAccess.xml
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\MyTemplates.pdb
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\MyTemplates.xml
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\Bookkeper.pdb
+E:\CGMEA ALPH-ALPS\Membership\bin\x86\Release\Bookkeper.xml
+E:\CGMEA ALPH-ALPS\Membership\obj\x86\Release\ResolveAssemblyReference.cache
+E:\CGMEA ALPH-ALPS\Membership\obj\x86\Release\Membership.frmMemberInfoAndAccounts.resources
+E:\CGMEA ALPH-ALPS\Membership\obj\x86\Release\Membership.Resources.resources
+E:\CGMEA ALPH-ALPS\Membership\obj\x86\Release\Membership.frmMemberInfoAndAccountsFinder.resources
+E:\CGMEA ALPH-ALPS\Membership\obj\x86\Release\Membership.vbproj.GenerateResource.Cache
+E:\CGMEA ALPH-ALPS\Membership\obj\x86\Release\Membership.dll.licenses
+E:\CGMEA ALPH-ALPS\Membership\obj\x86\Release\Membership.dll
+E:\CGMEA ALPH-ALPS\Membership\obj\x86\Release\Membership.xml
+E:\CGMEA ALPH-ALPS\Membership\obj\x86\Release\Membership.pdb

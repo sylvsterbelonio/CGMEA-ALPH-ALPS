@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BB753093-90B5-42BB-A30D-E88A8A4A6124}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Personnel</RootNamespace>
+    <AssemblyName>Personnel</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Personnel.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Personnel.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>Personnel.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>Personnel.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=5.2.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\x86\Release\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\clsDepartment.vb" />
+    <Compile Include="Classes\clsLGU.vb" />
+    <Compile Include="Classes\clsMember.vb" />
+    <Compile Include="Classes\clsMemberChildren.vb" />
+    <Compile Include="Classes\clsMemberEducationalBackground.vb" />
+    <Compile Include="Classes\clsMemberEmploymentHistory.vb" />
+    <Compile Include="Classes\clsMemberFamilyBackground.vb" />
+    <Compile Include="Classes\clsMemberManagement.vb" />
+    <Compile Include="Classes\clsMemberOrganizations.vb" />
+    <Compile Include="Classes\clsMemberOtherBeneficiary.vb" />
+    <Compile Include="Classes\clsMemberSeminarsAttended.vb" />
+    <Compile Include="Classes\clsPersonnel.vb" />
+    <Compile Include="Forms\frmCrystalReportViewer.designer.vb">
+      <DependentUpon>frmCrystalReportViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCrystalReportViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDepartment.designer.vb">
+      <DependentUpon>frmDepartment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDepartment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDepartmentFinder.designer.vb">
+      <DependentUpon>frmDepartmentFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDepartmentFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLGU.designer.vb">
+      <DependentUpon>frmLGU.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLGU.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLGUFinder.designer.vb">
+      <DependentUpon>frmLGUFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLGUFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMember.designer.vb">
+      <DependentUpon>frmMember.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMember.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMemberFinder.designer.vb">
+      <DependentUpon>frmMemberFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMemberFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMemberReassign.designer.vb">
+      <DependentUpon>frmMemberReassign.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMemberReassign.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMemberReassignFinder.designer.vb">
+      <DependentUpon>frmMemberReassignFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMemberReassignFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMemberReplace.designer.vb">
+      <DependentUpon>frmMemberReplace.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMemberReplace.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMemberReplaceFinder.designer.vb">
+      <DependentUpon>frmMemberReplaceFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMemberReplaceFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMemberRetire.designer.vb">
+      <DependentUpon>frmMemberRetire.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMemberRetire.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMemberRetireFinder.designer.vb">
+      <DependentUpon>frmMemberRetireFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMemberRetireFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\AssemblyInfo.vb" />
+    <Compile Include="Modules\modPublics.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\frmDepartment.resx">
+      <DependentUpon>frmDepartment.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDepartmentFinder.resx">
+      <DependentUpon>frmDepartmentFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLGU.resx">
+      <DependentUpon>frmLGU.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLGUFinder.resx">
+      <DependentUpon>frmLGUFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.vbproj">
+      <Project>{D1268F11-E19A-4416-9545-CAA51F4C43E9}</Project>
+      <Name>Common</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Constituent\Constituent.vbproj">
+      <Project>{8E8025EA-5342-4260-AB46-E1D145C4482D}</Project>
+      <Name>Constituent</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\DataAccess\DataAccess.vbproj">
+      <Project>{1C85BE8B-6D98-4624-AFF0-935B61BC90A2}</Project>
+      <Name>DataAccess</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Location\Location.vbproj">
+      <Project>{44348B6A-181F-487D-A78C-AC9639854852}</Project>
+      <Name>Location</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\frmCrystalReportViewer.resx">
+      <DependentUpon>frmCrystalReportViewer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMember.resx">
+      <DependentUpon>frmMember.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMemberFinder.resx">
+      <DependentUpon>frmMemberFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMemberReassign.resx">
+      <DependentUpon>frmMemberReassign.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMemberReassignFinder.resx">
+      <DependentUpon>frmMemberReassignFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMemberReplace.resx">
+      <DependentUpon>frmMemberReplace.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMemberReplaceFinder.resx">
+      <DependentUpon>frmMemberReplaceFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMemberRetire.resx">
+      <DependentUpon>frmMemberRetire.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMemberRetireFinder.resx">
+      <DependentUpon>frmMemberRetireFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\blank-logo.gif" />
+    <EmbeddedResource Include="Resources\blank-user.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

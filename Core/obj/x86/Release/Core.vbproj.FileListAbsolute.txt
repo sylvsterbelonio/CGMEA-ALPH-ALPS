@@ -1,0 +1,451 @@
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Utility\mysql.exe
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Utility\mysqldump.exe
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Help\credits.rtf
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Help\license.rtf
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\IRGS2011.exe.config
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\IRGS2011.exe
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\IRGS2011.pdb
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\IRGS2011.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Assessment.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\BarcodeControl.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Building.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Business.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Common.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Constituent.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\DataAccess.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Inspection.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Land.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Licensing.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Location.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Machine.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Motorela.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\MySql.Data.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Performance.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Personnel.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Reports.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Systems.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Treasurer.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Utility.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\CloudToolkitN6.dll
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Land.pdb
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Land.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Licensing.pdb
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Licensing.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Location.pdb
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Location.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Personnel.pdb
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Personnel.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Common.pdb
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Common.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Performance.pdb
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Performance.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Constituent.pdb
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Constituent.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\DataAccess.pdb
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\DataAccess.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Utility.pdb
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Utility.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Systems.pdb
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Systems.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Business.pdb
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Business.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Inspection.pdb
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Inspection.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Motorela.pdb
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Motorela.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Assessment.pdb
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Assessment.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Building.pdb
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Building.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Machine.pdb
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Machine.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Reports.pdb
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Reports.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Treasurer.pdb
+C:\Users\MarSyl\Desktop\IRGS2011\Core\bin\x86\Release\Treasurer.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Core\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\MarSyl\Desktop\IRGS2011\Core\obj\x86\Release\Core.frmMain.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Core\obj\x86\Release\Core.Resources.resources
+C:\Users\MarSyl\Desktop\IRGS2011\Core\obj\x86\Release\Core.vbproj.GenerateResource.Cache
+C:\Users\MarSyl\Desktop\IRGS2011\Core\obj\x86\Release\IRGS2011.exe
+C:\Users\MarSyl\Desktop\IRGS2011\Core\obj\x86\Release\IRGS2011.xml
+C:\Users\MarSyl\Desktop\IRGS2011\Core\obj\x86\Release\IRGS2011.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Utility\mysql.exe
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Utility\mysqldump.exe
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Help\credits.rtf
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Help\license.rtf
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\IRGS2011.exe.config
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\IRGS2011.exe
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\IRGS2011.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\IRGS2011.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Assessment.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\BarcodeControl.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Building.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Business.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Common.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Constituent.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\DataAccess.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Inspection.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Land.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Licensing.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Location.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Machine.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Motorela.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\MySql.Data.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Performance.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Personnel.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Reports.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Systems.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Treasurer.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Utility.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\CloudToolkitN6.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\itextsharp.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Interop.Excel.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Interop.Office.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Land.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Land.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Licensing.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Licensing.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Location.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Location.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Personnel.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Personnel.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Common.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Common.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Performance.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Performance.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Constituent.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Constituent.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\DataAccess.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\DataAccess.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Utility.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Utility.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Systems.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Systems.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Business.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Business.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Inspection.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Inspection.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Motorela.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Motorela.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Assessment.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Assessment.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Building.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Building.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Machine.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Machine.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Reports.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Reports.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Treasurer.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Treasurer.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Core\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\IRGS2011\Core\obj\x86\Release\Core.frmMain.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Core\obj\x86\Release\Core.Resources.resources
+C:\Users\Sylvster\Desktop\IRGS2011\Core\obj\x86\Release\Core.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\IRGS2011\Core\obj\x86\Release\IRGS2011.exe
+C:\Users\Sylvster\Desktop\IRGS2011\Core\obj\x86\Release\IRGS2011.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Core\obj\x86\Release\IRGS2011.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\CustomObjects.pdb
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\CustomObjects.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Microsoft.Office.Interop.Word.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\office.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\CustomObjects.dll
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\Microsoft.Office.Interop.Word.xml
+C:\Users\Sylvster\Desktop\IRGS2011\Core\bin\x86\Release\office.xml
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\IRGS2011.exe.config
+C:\Users\Sylvster\Desktop\CGMEA\Core\obj\x86\Release\IRGS2011.exe
+C:\Users\Sylvster\Desktop\CGMEA\Core\obj\x86\Release\IRGS2011.xml
+C:\Users\Sylvster\Desktop\CGMEA\Core\obj\x86\Release\IRGS2011.pdb
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Utility\mysql.exe
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Utility\mysqldump.exe
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Help\credits.rtf
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Help\license.rtf
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\IRGS2011.exe
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\IRGS2011.pdb
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\IRGS2011.xml
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\BarcodeControl.dll
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Common.dll
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Constituent.dll
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\CustomObjects.dll
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\DataAccess.dll
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Location.dll
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\MySql.Data.dll
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Personnel.dll
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Systems.dll
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Microsoft.Office.Interop.Word.dll
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\office.dll
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\CloudToolkitN6.dll
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\MyTemplates.exe
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\itextsharp.dll
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Power .NET 8.dll
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Interop.Excel.dll
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Interop.Office.dll
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Microsoft.Office.Interop.Word.xml
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\office.xml
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Location.pdb
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Location.xml
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Personnel.pdb
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Personnel.xml
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Common.pdb
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Common.xml
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Constituent.pdb
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Constituent.xml
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\DataAccess.pdb
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\DataAccess.xml
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\MyTemplates.pdb
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\MyTemplates.xml
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Systems.pdb
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\Systems.xml
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\CustomObjects.pdb
+C:\Users\Sylvster\Desktop\CGMEA\Core\bin\x86\Release\CustomObjects.xml
+C:\Users\Sylvster\Desktop\CGMEA\Core\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\CGMEA\Core\obj\x86\Release\Core.frmMain.resources
+C:\Users\Sylvster\Desktop\CGMEA\Core\obj\x86\Release\Core.Resources.resources
+C:\Users\Sylvster\Desktop\CGMEA\Core\obj\x86\Release\Core.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\CGMEA ALPH\Core\bin\x86\Release\IRGS2011.exe.config
+C:\Users\Sylvster\Desktop\CGMEA ALPH\Core\obj\x86\Release\IRGS2011.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH\Core\obj\x86\Release\IRGS2011.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH\Core\obj\x86\Release\IRGS2011.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Utility\mysql.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Utility\mysqldump.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Help\credits.rtf
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Help\license.rtf
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\IRGS2011.exe.config
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\IRGS2011.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\IRGS2011.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\IRGS2011.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\BarcodeControl.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Common.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Constituent.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\CustomObjects.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\DataAccess.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Location.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\MySql.Data.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\MyTemplates.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Personnel.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Systems.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Microsoft.Office.Interop.Word.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\office.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\CloudToolkitN6.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\itextsharp.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Power .NET 8.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Interop.Excel.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Interop.Office.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Microsoft.Office.Interop.Word.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\office.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Location.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Location.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Personnel.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Personnel.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Constituent.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Constituent.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\DataAccess.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\DataAccess.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Common.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Common.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\MyTemplates.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\MyTemplates.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Systems.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\Systems.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\CustomObjects.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\bin\x86\Release\CustomObjects.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmMain.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.Resources.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\obj\x86\Release\IRGS2011.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\obj\x86\Release\IRGS2011.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Core\obj\x86\Release\IRGS2011.pdb
+E:\CGMEA ALPH-ALPS\Core\obj\x86\Release\ResolveAssemblyReference.cache
+E:\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmMain.resources
+E:\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.Resources.resources
+E:\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmBackGrounLogIn.resources
+E:\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmDashBoard.resources
+E:\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmNotificationBoard.resources
+E:\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.vbproj.GenerateResource.Cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Utility\mysql.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Utility\mysqldump.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Help\credits.rtf
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Help\license.rtf
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\CGMEA.exe.config
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\CGMEA.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\CGMEA.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\CGMEA.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\BarcodeControl.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Bookkeper.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Common.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Constituent.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\DataAccess.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Location.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Membership.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\MySql.Data.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\MyTemplates.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Personnel.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Systems.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Treasurer.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Utility.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Microsoft.Office.Interop.Word.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\CloudToolkitN6.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Microsoft.Vbe.Interop.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\office.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Microsoft.Office.Interop.Word.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Membership.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Membership.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Location.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Location.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Personnel.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Personnel.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Common.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Common.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Constituent.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Constituent.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\DataAccess.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\DataAccess.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\MyTemplates.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\MyTemplates.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Systems.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Systems.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\office.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Bookkeper.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Bookkeper.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Treasurer.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\bin\x86\Release\Treasurer.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmMain.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.Resources.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmBackGrounLogIn.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmChatClient.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmDashBoard.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmNotificationBoard.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.vbproj.GenerateResource.Cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\obj\x86\Release\CGMEA.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\obj\x86\Release\CGMEA.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Core\obj\x86\Release\CGMEA.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Utility\mysql.exe
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Utility\mysqldump.exe
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Help\credits.rtf
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Help\license.rtf
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\CGMEA.exe.config
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\CGMEA.exe
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\CGMEA.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\CGMEA.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\BarcodeControl.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Bookkeper.exe
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Common.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Constituent.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\DataAccess.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Location.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Membership.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\MySql.Data.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\MyTemplates.exe
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Personnel.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Systems.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Treasurer.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Utility.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Microsoft.Office.Interop.Word.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\CloudToolkitN6.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Microsoft.Vbe.Interop.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\office.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Microsoft.Office.Interop.Word.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Membership.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Membership.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Location.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Location.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Personnel.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Personnel.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Common.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Common.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Constituent.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Constituent.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\DataAccess.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\DataAccess.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\MyTemplates.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\MyTemplates.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Systems.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Systems.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\office.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Bookkeper.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Bookkeper.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Treasurer.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\bin\x86\Release\Treasurer.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmMain.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.Resources.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmBackGrounLogIn.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmChatClient.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmDashBoard.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmNotificationBoard.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.vbproj.GenerateResource.Cache
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Release\CGMEA.exe
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Release\CGMEA.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Core\obj\x86\Release\CGMEA.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Utility\mysql.exe
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Utility\mysqldump.exe
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Help\credits.rtf
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Help\license.rtf
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\CGMEA.exe.config
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\CGMEA.exe
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\CGMEA.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\CGMEA.xml
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\BarcodeControl.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Bookkeper.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Common.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Constituent.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\DataAccess.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Location.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Membership.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\MySql.Data.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\MyTemplates.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Personnel.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Systems.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Treasurer.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Utility.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Microsoft.Office.Interop.Word.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Microsoft.Vbe.Interop.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\office.dll
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Membership.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Membership.xml
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Location.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Location.xml
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Personnel.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Personnel.xml
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Common.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Common.xml
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Systems.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Systems.xml
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Constituent.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Constituent.xml
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\DataAccess.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\DataAccess.xml
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\MyTemplates.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\MyTemplates.xml
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Bookkeper.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Bookkeper.xml
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Treasurer.pdb
+D:\CGMEA ALPH-ALPS\Core\bin\x86\Release\Treasurer.xml
+D:\CGMEA ALPH-ALPS\Core\obj\x86\Release\ResolveAssemblyReference.cache
+D:\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmMain.resources
+D:\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.Resources.resources
+D:\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmBackGrounLogIn.resources
+D:\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmChatClient.resources
+D:\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmDashBoard.resources
+D:\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmNotificationBoard.resources
+D:\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.vbproj.GenerateResource.Cache
+D:\CGMEA ALPH-ALPS\Core\obj\x86\Release\CGMEA.exe
+D:\CGMEA ALPH-ALPS\Core\obj\x86\Release\CGMEA.xml
+D:\CGMEA ALPH-ALPS\Core\obj\x86\Release\CGMEA.pdb
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Core\bin\x86\Release\CGMEA.exe.config
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Core\obj\x86\Release\CGMEA.exe
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Core\obj\x86\Release\CGMEA.xml
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Core\obj\x86\Release\CGMEA.pdb
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.vbprojResolveAssemblyReference.cache
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmMain.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.Resources.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmBackGrounLogIn.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmChatClient.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmDashBoard.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.frmNotificationBoard.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Core\obj\x86\Release\Core.vbproj.GenerateResource.Cache

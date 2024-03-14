@@ -1,0 +1,14 @@
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\LoanPayment\bin\Debug\LoanPayment.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\LoanPayment\bin\Debug\LoanPayment.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\LoanPayment\bin\Debug\LoanPayment.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\LoanPayment\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\LoanPayment\obj\Debug\LoanPayment.Resources.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\LoanPayment\obj\Debug\LoanPayment.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\LoanPayment\obj\Debug\LoanPayment.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\LoanPayment\obj\Debug\LoanPayment.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\LoanPayment\obj\Debug\LoanPayment.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\LoanPayment\bin\Debug\Power .NET 8.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\LoanPayment\bin\Debug\MySql.Data.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\LoanPayment\bin\Debug\Power .NET 8.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\LoanPayment\bin\Debug\Power .NET 8.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\LoanPayment\obj\Debug\LoanPayment.frmLoanRateFinder.resources

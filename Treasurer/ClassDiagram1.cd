@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Treasurer.Payment.CancelPayment" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\clsCancelPayment.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Treasurer.Payment.Payment" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GACQTIQAgzgXCUsphEogEOBgEAwgZbKwnsgzwDKCTgw=</HashCode>
+      <FileName>Classes\clsPayment.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Treasurer.Payment.PaymentCheck" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACIQAAAEIAAAYAAAAAABABBEAIEAEEAAIAAIAAgQAA=</HashCode>
+      <FileName>Classes\clsPaymentCheck.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Treasurer.Payment.PaymentDetail" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAABAACgAEAAAAAgQAASBIEAAEAACAgAAAIAQAACA=</HashCode>
+      <FileName>Classes\clsPaymentDetail.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Treasurer.LoanPaymentUpdater.LoanPaymentUpdater" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>jAgIBUAoABAAhBJBAJAoAABAAAAQKEAYiMxAQEgAYgQ=</HashCode>
+      <FileName>Classes\clsLoanPaymentUpdater.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Treasurer.MemberLoanPaymentDetails.MemberLoanPaymentDetails" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAABAJAABAAAAAAAAEAAAABAQAAAYAA=</HashCode>
+      <FileName>Classes\clsMemberLoanPaymentDetails.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Treasurer.Treasurer" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAEgAAAhAAAQAAAIAAAAAAAAABAAAEAEAAAQAAAI=</HashCode>
+      <FileName>Classes\clsTreasurer.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Treasurer.frmCancelPayment" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\frmCancelPayment.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Treasurer.frmCancelPaymentFinder" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\frmCancelPaymentFinder.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Treasurer.frmChecksIssued" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAAAAAAACIEIACAQAAACAAAAgAAQQAAAA=</HashCode>
+      <FileName>Forms\frmChecksIssued.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Treasurer.frmCrystalReportViewer" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJEAAggAAGAAAGCAAQCAgAACAAAACAAAAAgKBAEgQAA=</HashCode>
+      <FileName>Forms\frmCrystalReportViewer.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Treasurer.frmLoanPaymentUpdater" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AA+CYGIAECIRRBREMZKUIZgWBCEVQGA+Dp2oAQUEg04=</HashCode>
+      <FileName>Forms\frmLoanPaymentUpdater.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Treasurer.frmOfficialReceiptsIssued" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAECAAAAEAAACAMIACAAAAAiAAAAgAAQQAAAA=</HashCode>
+      <FileName>Forms\frmOfficialReceiptsIssued.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Treasurer.frmPayment" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>P1743MIJZTog5jdsdm7EA/aLxHe8x/jzqp2qZX9geg0=</HashCode>
+      <FileName>Forms\frmPayment.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Treasurer.frmPaymentFinder" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CwgWlBMaMCkkSSFkmACCAIQCUEAEoCggAAgBAhQCAmI=</HashCode>
+      <FileName>Forms\frmPaymentFinder.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Treasurer.frmStartORNo" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEAABAAAACAgQAECAAKAAIICAAAQIEAABAgAAAAAACA=</HashCode>
+      <FileName>Forms\frmStartORNo.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Treasurer.My.MySettings" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="Treasurer.modPublics" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgBIDCEACBIgABGQCQCCjKYAgoSApw0xEAMBIKQTEQM=</HashCode>
+      <FileName>Modules\modPublics.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Treasurer.My.Resources.Resources" Collapsed="true">
+    <Position X="4" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="Treasurer.My.MySettingsProperty" Collapsed="true">
+    <Position X="2.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{44348B6A-181F-487D-A78C-AC9639854852}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Location</RootNamespace>
+    <AssemblyName>Location</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Location.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Location.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>Location.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>Location.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=5.2.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Core\Resources\MySql.Data.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\clsBarangay.vb" />
+    <Compile Include="Classes\clsCountry.vb" />
+    <Compile Include="Classes\clsDistrict.vb" />
+    <Compile Include="Classes\clsLocations.vb" />
+    <Compile Include="Classes\clsMunicipality.vb" />
+    <Compile Include="Classes\clsProvince.vb" />
+    <Compile Include="Classes\clsRegion.vb" />
+    <Compile Include="Classes\clsZipCode.vb" />
+    <Compile Include="Forms\frmBarangay.designer.vb">
+      <DependentUpon>frmBarangay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmBarangay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmBarangayFinder.designer.vb">
+      <DependentUpon>frmBarangayFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmBarangayFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmCountry.designer.vb">
+      <DependentUpon>frmCountry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCountry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmCountryFinder.designer.vb">
+      <DependentUpon>frmCountryFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCountryFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDistrict.designer.vb">
+      <DependentUpon>frmDistrict.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDistrict.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDistrictFinder.designer.vb">
+      <DependentUpon>frmDistrictFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDistrictFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMunicipality.designer.vb">
+      <DependentUpon>frmMunicipality.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMunicipality.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMunicipalityFinder.designer.vb">
+      <DependentUpon>frmMunicipalityFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMunicipalityFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmProvince.designer.vb">
+      <DependentUpon>frmProvince.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmProvince.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmProvinceFinder.designer.vb">
+      <DependentUpon>frmProvinceFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmProvinceFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmRegion.designer.vb">
+      <DependentUpon>frmRegion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmRegion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmRegionFinder.designer.vb">
+      <DependentUpon>frmRegionFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmRegionFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmZipCode.designer.vb">
+      <DependentUpon>frmZipCode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmZipCode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmZipCodeFinder.designer.vb">
+      <DependentUpon>frmZipCodeFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmZipCodeFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\AssemblyInfo.vb" />
+    <Compile Include="Modules\modPublics.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\frmBarangay.resx">
+      <DependentUpon>frmBarangay.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmBarangayFinder.resx">
+      <DependentUpon>frmBarangayFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCountry.resx">
+      <DependentUpon>frmCountry.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCountryFinder.resx">
+      <DependentUpon>frmCountryFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDistrict.resx">
+      <DependentUpon>frmDistrict.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDistrictFinder.resx">
+      <DependentUpon>frmDistrictFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMunicipality.resx">
+      <DependentUpon>frmMunicipality.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMunicipalityFinder.resx">
+      <DependentUpon>frmMunicipalityFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmProvince.resx">
+      <DependentUpon>frmProvince.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmProvinceFinder.resx">
+      <DependentUpon>frmProvinceFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmRegion.resx">
+      <DependentUpon>frmRegion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmRegionFinder.resx">
+      <DependentUpon>frmRegionFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmZipCode.resx">
+      <DependentUpon>frmZipCode.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmZipCodeFinder.resx">
+      <DependentUpon>frmZipCodeFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.vbproj">
+      <Project>{D1268F11-E19A-4416-9545-CAA51F4C43E9}</Project>
+      <Name>Common</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\DataAccess\DataAccess.vbproj">
+      <Project>{1C85BE8B-6D98-4624-AFF0-935B61BC90A2}</Project>
+      <Name>DataAccess</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\no-flag.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

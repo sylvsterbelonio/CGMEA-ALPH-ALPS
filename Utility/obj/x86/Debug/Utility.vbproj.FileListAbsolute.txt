@@ -1,0 +1,331 @@
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\bin\x86\Debug\Utility.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\bin\x86\Debug\Utility.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.Resources.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmAccountableForm.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmAccountableFormFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmAssessmentLevel.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmAssessmentLevelFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmBank.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmBankFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessCategory.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessCategoryFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessRequirements.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessRequirementsFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessSchedule.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessScheduleFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessType.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessTypeFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmClassification.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmClassificationFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmCollectionType.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmCollectionTypeFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmCollector.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmCollectorFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmDescriptionCode.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmDescriptionCodeFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmExpenditure.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmExpenditureFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmFund.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmFundFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmInspector.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmInspectorFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmMemoranda.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmMemorandaFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmPermitFee.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmPermitFeeFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmPropertyClassification.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmPropertyClassificationFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmPropertyType.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmPropertyTypeFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmReceipt.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmReceiptFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmRevisionCode.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmRevisionCodeFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmSignatory.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmSignatoryFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmSpecialLevy.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmSpecialLevyFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmSurchargeInterest.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmSurchargeInterestFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmTaxCode.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmTaxCodeFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmTransactionCode.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.frmTransactionCodeFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.vbproj.GenerateResource.Cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\IRGS2011\Utility\obj\x86\Debug\Utility.pdb
+D:\IRGS2011\Utility\bin\x86\Debug\Utility.dll
+D:\IRGS2011\Utility\bin\x86\Debug\Utility.pdb
+D:\IRGS2011\Utility\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.Resources.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmAccountableForm.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmAccountableFormFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmAssessmentLevel.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmAssessmentLevelFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmBank.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmBankFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessCategory.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessCategoryFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessRequirements.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessRequirementsFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessSchedule.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessScheduleFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessType.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessTypeFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmClassification.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmClassificationFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmCollectionType.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmCollectionTypeFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmCollector.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmCollectorFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmDescriptionCode.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmDescriptionCodeFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmExpenditure.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmExpenditureFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmFund.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmFundFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmInspector.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmInspectorFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmMemoranda.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmMemorandaFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmPermitFee.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmPermitFeeFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmPropertyClassification.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmPropertyClassificationFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmPropertyType.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmPropertyTypeFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmReceipt.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmReceiptFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmRevisionCode.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmRevisionCodeFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmSignatory.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmSignatoryFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmSpecialLevy.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmSpecialLevyFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmSurchargeInterest.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmSurchargeInterestFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmTaxCode.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmTaxCodeFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmTransactionCode.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.frmTransactionCodeFinder.resources
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.vbproj.GenerateResource.Cache
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.dll
+D:\IRGS2011\Utility\obj\x86\Debug\Utility.pdb
+E:\IRGS2011\Utility\bin\x86\Debug\Utility.dll
+E:\IRGS2011\Utility\bin\x86\Debug\Utility.pdb
+E:\IRGS2011\Utility\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.Resources.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmAccountableForm.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmAccountableFormFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmAssessmentLevel.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmAssessmentLevelFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmBank.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmBankFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessCategory.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessCategoryFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessRequirements.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessRequirementsFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessSchedule.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessScheduleFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessType.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmBusinessTypeFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmClassification.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmClassificationFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmCollectionType.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmCollectionTypeFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmCollector.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmCollectorFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmDescriptionCode.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmDescriptionCodeFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmExpenditure.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmExpenditureFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmFund.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmFundFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmInspector.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmInspectorFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmMemoranda.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmMemorandaFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmPermitFee.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmPermitFeeFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmPropertyClassification.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmPropertyClassificationFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmPropertyType.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmPropertyTypeFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmReceipt.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmReceiptFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmRevisionCode.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmRevisionCodeFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmSignatory.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmSignatoryFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmSpecialLevy.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmSpecialLevyFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmSurchargeInterest.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmSurchargeInterestFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmTaxCode.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmTaxCodeFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmTransactionCode.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.frmTransactionCodeFinder.resources
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.vbproj.GenerateResource.Cache
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.dll
+E:\IRGS2011\Utility\obj\x86\Debug\Utility.pdb
+E:\CGMEA\Utility\bin\x86\Debug\Utility.dll
+E:\CGMEA\Utility\bin\x86\Debug\Utility.pdb
+E:\CGMEA\Utility\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\CGMEA\Utility\obj\x86\Debug\Utility.Resources.resources
+E:\CGMEA\Utility\obj\x86\Debug\Utility.frmBank.resources
+E:\CGMEA\Utility\obj\x86\Debug\Utility.frmBankFinder.resources
+E:\CGMEA\Utility\obj\x86\Debug\Utility.frmCollectionFee.resources
+E:\CGMEA\Utility\obj\x86\Debug\Utility.frmCollectionFeeFinder.resources
+E:\CGMEA\Utility\obj\x86\Debug\Utility.frmCollectionType.resources
+E:\CGMEA\Utility\obj\x86\Debug\Utility.frmCollectionTypeFinder.resources
+E:\CGMEA\Utility\obj\x86\Debug\Utility.frmSignatory.resources
+E:\CGMEA\Utility\obj\x86\Debug\Utility.frmSignatoryFinder.resources
+E:\CGMEA\Utility\obj\x86\Debug\Utility.frmMemberSignatoryFinder.resources
+E:\CGMEA\Utility\obj\x86\Debug\Utility.vbproj.GenerateResource.Cache
+E:\CGMEA\Utility\obj\x86\Debug\Utility.dll
+E:\CGMEA\Utility\obj\x86\Debug\Utility.pdb
+D:\CGMEA\Utility\bin\x86\Debug\Utility.dll
+D:\CGMEA\Utility\bin\x86\Debug\Utility.pdb
+D:\CGMEA\Utility\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CGMEA\Utility\obj\x86\Debug\Utility.Resources.resources
+D:\CGMEA\Utility\obj\x86\Debug\Utility.frmBank.resources
+D:\CGMEA\Utility\obj\x86\Debug\Utility.frmBankFinder.resources
+D:\CGMEA\Utility\obj\x86\Debug\Utility.frmCollectionFee.resources
+D:\CGMEA\Utility\obj\x86\Debug\Utility.frmCollectionFeeFinder.resources
+D:\CGMEA\Utility\obj\x86\Debug\Utility.frmCollectionType.resources
+D:\CGMEA\Utility\obj\x86\Debug\Utility.frmCollectionTypeFinder.resources
+D:\CGMEA\Utility\obj\x86\Debug\Utility.frmSignatory.resources
+D:\CGMEA\Utility\obj\x86\Debug\Utility.frmSignatoryFinder.resources
+D:\CGMEA\Utility\obj\x86\Debug\Utility.frmMemberSignatoryFinder.resources
+D:\CGMEA\Utility\obj\x86\Debug\Utility.vbproj.GenerateResource.Cache
+D:\CGMEA\Utility\obj\x86\Debug\Utility.dll
+D:\CGMEA\Utility\obj\x86\Debug\Utility.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Utility\bin\x86\Debug\Utility.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Utility\bin\x86\Debug\Utility.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.Resources.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmBank.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmBankFinder.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionFee.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionFeeFinder.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionType.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionTypeFinder.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmSignatory.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmSignatoryFinder.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmMemberSignatoryFinder.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Utility\bin\x86\Debug\Utility.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Utility\bin\x86\Debug\Utility.pdb
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.Resources.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmBank.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmBankFinder.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionFee.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionFeeFinder.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionType.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionTypeFinder.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmSignatory.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmSignatoryFinder.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmMemberSignatoryFinder.resources
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.vbproj.GenerateResource.Cache
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.dll
+D:\CGMEA ALPH-ALPS\2015-11-02\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Utility\bin\x86\Debug\Utility.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Utility\bin\x86\Debug\Utility.pdb
+D:\CGMEA new\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CGMEA new\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.Resources.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmBank.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmBankFinder.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionFee.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionFeeFinder.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionType.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionTypeFinder.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmSignatory.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmSignatoryFinder.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmMemberSignatoryFinder.resources
+D:\CGMEA new\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.vbproj.GenerateResource.Cache
+D:\CGMEA new\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.dll
+D:\CGMEA new\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.pdb
+D:\2016-01-08\CGMEA ALPH-ALPS\Utility\bin\x86\Debug\Utility.dll
+D:\2016-01-08\CGMEA ALPH-ALPS\Utility\bin\x86\Debug\Utility.pdb
+D:\2016-01-08\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\2016-01-08\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.Resources.resources
+D:\2016-01-08\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmBank.resources
+D:\2016-01-08\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmBankFinder.resources
+D:\2016-01-08\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionFee.resources
+D:\2016-01-08\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionFeeFinder.resources
+D:\2016-01-08\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionType.resources
+D:\2016-01-08\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionTypeFinder.resources
+D:\2016-01-08\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmSignatory.resources
+D:\2016-01-08\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmSignatoryFinder.resources
+D:\2016-01-08\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmMemberSignatoryFinder.resources
+D:\2016-01-08\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.vbproj.GenerateResource.Cache
+D:\2016-01-08\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.dll
+D:\2016-01-08\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.pdb
+E:\CGMEA ALPH-ALPS\Utility\bin\x86\Debug\Utility.dll
+E:\CGMEA ALPH-ALPS\Utility\bin\x86\Debug\Utility.pdb
+E:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.Resources.resources
+E:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmBank.resources
+E:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmBankFinder.resources
+E:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionFee.resources
+E:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionFeeFinder.resources
+E:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionType.resources
+E:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionTypeFinder.resources
+E:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmSignatory.resources
+E:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmSignatoryFinder.resources
+E:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmMemberSignatoryFinder.resources
+E:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.vbproj.GenerateResource.Cache
+E:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.dll
+E:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Utility\bin\x86\Debug\Utility.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Utility\bin\x86\Debug\Utility.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.Resources.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmBank.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmBankFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionFee.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionFeeFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionType.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionTypeFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmSignatory.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmSignatoryFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmMemberSignatoryFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.vbproj.GenerateResource.Cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Utility\bin\x86\Debug\Utility.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Utility\bin\x86\Debug\Utility.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.Resources.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmBank.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmBankFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionFee.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionFeeFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionType.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionTypeFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmSignatory.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmSignatoryFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmMemberSignatoryFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.vbproj.GenerateResource.Cache
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.pdb
+D:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.Resources.resources
+D:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmBank.resources
+D:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmBankFinder.resources
+D:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionFee.resources
+D:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionFeeFinder.resources
+D:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionType.resources
+D:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmCollectionTypeFinder.resources
+D:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmSignatory.resources
+D:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmSignatoryFinder.resources
+D:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.frmMemberSignatoryFinder.resources
+D:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.vbproj.GenerateResource.Cache
+D:\CGMEA ALPH-ALPS\Utility\bin\x86\Debug\Utility.dll
+D:\CGMEA ALPH-ALPS\Utility\bin\x86\Debug\Utility.pdb
+D:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.dll
+D:\CGMEA ALPH-ALPS\Utility\obj\x86\Debug\Utility.pdb

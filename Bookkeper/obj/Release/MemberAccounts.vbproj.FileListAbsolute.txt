@@ -1,0 +1,24 @@
+D:\CGMEA\Membership\bin\Release\Membership.dll
+D:\CGMEA\Membership\bin\Release\Membership.pdb
+D:\CGMEA\Membership\bin\Release\Membership.xml
+D:\CGMEA\Membership\bin\Release\Common.dll
+D:\CGMEA\Membership\bin\Release\DataAccess.dll
+D:\CGMEA\Membership\bin\Release\Location.dll
+D:\CGMEA\Membership\bin\Release\MySql.Data.dll
+D:\CGMEA\Membership\bin\Release\MyTemplates.exe
+D:\CGMEA\Membership\bin\Release\Power .NET 8.dll
+D:\CGMEA\Membership\bin\Release\Location.pdb
+D:\CGMEA\Membership\bin\Release\Location.xml
+D:\CGMEA\Membership\bin\Release\Common.pdb
+D:\CGMEA\Membership\bin\Release\Common.xml
+D:\CGMEA\Membership\bin\Release\DataAccess.pdb
+D:\CGMEA\Membership\bin\Release\DataAccess.xml
+D:\CGMEA\Membership\bin\Release\MyTemplates.pdb
+D:\CGMEA\Membership\bin\Release\MyTemplates.xml
+D:\CGMEA\Membership\obj\Release\ResolveAssemblyReference.cache
+D:\CGMEA\Membership\obj\Release\Membership.frmMembersInfoAndAccountsFinder.resources
+D:\CGMEA\Membership\obj\Release\Membership.Resources.resources
+D:\CGMEA\Membership\obj\Release\MemberAccounts.vbproj.GenerateResource.Cache
+D:\CGMEA\Membership\obj\Release\Membership.dll
+D:\CGMEA\Membership\obj\Release\Membership.xml
+D:\CGMEA\Membership\obj\Release\Membership.pdb

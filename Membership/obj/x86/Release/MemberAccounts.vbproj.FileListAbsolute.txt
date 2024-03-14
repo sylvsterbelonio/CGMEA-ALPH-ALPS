@@ -1,0 +1,4 @@
+D:\CGMEA\Membership\obj\x86\Release\ResolveAssemblyReference.cache
+D:\CGMEA\Membership\obj\x86\Release\Membership.frmMembersInfoAndAccountsFinder.resources
+D:\CGMEA\Membership\obj\x86\Release\Membership.Resources.resources
+D:\CGMEA\Membership\obj\x86\Release\MemberAccounts.vbproj.GenerateResource.Cache

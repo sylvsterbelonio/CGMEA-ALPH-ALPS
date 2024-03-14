@@ -1,0 +1,141 @@
+E:\CGMEA\Treasurer\bin\Debug\Treasurer.exe
+E:\CGMEA\Treasurer\bin\Debug\Treasurer.pdb
+E:\CGMEA\Treasurer\bin\Debug\Treasurer.xml
+E:\CGMEA\Treasurer\bin\Debug\Common.dll
+E:\CGMEA\Treasurer\bin\Debug\DataAccess.dll
+E:\CGMEA\Treasurer\bin\Debug\MySql.Data.dll
+E:\CGMEA\Treasurer\bin\Debug\Personnel.dll
+E:\CGMEA\Treasurer\bin\Debug\Utility.dll
+E:\CGMEA\Treasurer\bin\Debug\MyTemplates.exe
+E:\CGMEA\Treasurer\bin\Debug\Power .NET 8.dll
+E:\CGMEA\Treasurer\bin\Debug\Personnel.pdb
+E:\CGMEA\Treasurer\bin\Debug\Personnel.xml
+E:\CGMEA\Treasurer\bin\Debug\Common.pdb
+E:\CGMEA\Treasurer\bin\Debug\Common.xml
+E:\CGMEA\Treasurer\bin\Debug\DataAccess.pdb
+E:\CGMEA\Treasurer\bin\Debug\DataAccess.xml
+E:\CGMEA\Treasurer\bin\Debug\MyTemplates.pdb
+E:\CGMEA\Treasurer\bin\Debug\MyTemplates.xml
+E:\CGMEA\Treasurer\bin\Debug\Utility.pdb
+E:\CGMEA\Treasurer\obj\Debug\ResolveAssemblyReference.cache
+E:\CGMEA\Treasurer\obj\Debug\Treasurer.frmCancelPayment.resources
+E:\CGMEA\Treasurer\obj\Debug\Treasurer.frmCancelPaymentFinder.resources
+E:\CGMEA\Treasurer\obj\Debug\Treasurer.frmCrystalReportViewer.resources
+E:\CGMEA\Treasurer\obj\Debug\Treasurer.frmPayment.resources
+E:\CGMEA\Treasurer\obj\Debug\Treasurer.frmPaymentFinder.resources
+E:\CGMEA\Treasurer\obj\Debug\Treasurer.frmStartORNo.resources
+E:\CGMEA\Treasurer\obj\Debug\Treasurer.Resources.resources
+E:\CGMEA\Treasurer\obj\Debug\Treasurer.vbproj.GenerateResource.Cache
+E:\CGMEA\Treasurer\obj\Debug\Treasurer.exe
+E:\CGMEA\Treasurer\obj\Debug\Treasurer.xml
+E:\CGMEA\Treasurer\obj\Debug\Treasurer.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Treasurer.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Treasurer.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Treasurer.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Common.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\bin\Debug\DataAccess.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\bin\Debug\MySql.Data.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Personnel.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Utility.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\bin\Debug\MyTemplates.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Power .NET 8.dll
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Personnel.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Personnel.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Common.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Common.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\bin\Debug\DataAccess.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\bin\Debug\DataAccess.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\bin\Debug\MyTemplates.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\bin\Debug\MyTemplates.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Utility.pdb
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.frmCancelPayment.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.frmCancelPaymentFinder.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.frmCrystalReportViewer.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.frmPayment.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.frmPaymentFinder.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.frmStartORNo.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.Resources.resources
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.exe
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.xml
+C:\Users\Sylvster\Desktop\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.pdb
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Treasurer.pdb
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Treasurer.xml
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Common.dll
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\DataAccess.dll
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\MySql.Data.dll
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Personnel.dll
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Utility.dll
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\MyTemplates.exe
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Power .NET 8.dll
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Personnel.pdb
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Personnel.xml
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Common.pdb
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Common.xml
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\DataAccess.pdb
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\DataAccess.xml
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\MyTemplates.pdb
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\MyTemplates.xml
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Utility.pdb
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Utility.xml
+D:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\ResolveAssemblyReference.cache
+D:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.frmCancelPayment.resources
+D:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.frmCancelPaymentFinder.resources
+D:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.frmCrystalReportViewer.resources
+D:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.frmPayment.resources
+D:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.frmPaymentFinder.resources
+D:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.frmStartORNo.resources
+D:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.Resources.resources
+D:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.vbproj.GenerateResource.Cache
+D:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.xml
+D:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.pdb
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Treasurer.dll
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Bookkeper.dll
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Location.dll
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Location.pdb
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Location.xml
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Bookkeper.pdb
+D:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Bookkeper.xml
+D:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.dll
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Treasurer.dll
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Treasurer.pdb
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Treasurer.xml
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Bookkeper.dll
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Common.dll
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\DataAccess.dll
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Location.dll
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\MySql.Data.dll
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Personnel.dll
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Utility.dll
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\MyTemplates.exe
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Power .NET 8.dll
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Location.pdb
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Location.xml
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Personnel.pdb
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Personnel.xml
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Common.pdb
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Common.xml
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\DataAccess.pdb
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\DataAccess.xml
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\MyTemplates.pdb
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\MyTemplates.xml
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Utility.pdb
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Utility.xml
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Bookkeper.pdb
+E:\CGMEA ALPH-ALPS\Treasurer\bin\Debug\Bookkeper.xml
+E:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\ResolveAssemblyReference.cache
+E:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.frmCancelPayment.resources
+E:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.frmCancelPaymentFinder.resources
+E:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.frmChecksIssued.resources
+E:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.frmCrystalReportViewer.resources
+E:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.frmLoanPaymentUpdater.resources
+E:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.frmOfficialReceiptsIssued.resources
+E:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.frmPayment.resources
+E:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.frmPaymentFinder.resources
+E:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.frmStartORNo.resources
+E:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.Resources.resources
+E:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.vbproj.GenerateResource.Cache
+E:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.dll
+E:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.xml
+E:\CGMEA ALPH-ALPS\Treasurer\obj\Debug\Treasurer.pdb

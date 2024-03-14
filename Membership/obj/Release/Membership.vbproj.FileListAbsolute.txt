@@ -1,0 +1,13 @@
+E:\CGMEA\Membership\bin\Release\Membership.dll
+E:\CGMEA\Membership\bin\Release\Membership.pdb
+E:\CGMEA\Membership\bin\Release\Membership.xml
+E:\CGMEA\Membership\bin\Release\Common.dll
+E:\CGMEA\Membership\bin\Release\MySql.Data.dll
+E:\CGMEA\Membership\bin\Release\Common.pdb
+E:\CGMEA\Membership\bin\Release\Common.xml
+E:\CGMEA\Membership\obj\Release\ResolveAssemblyReference.cache
+E:\CGMEA\Membership\obj\Release\Membership.Resources.resources
+E:\CGMEA\Membership\obj\Release\Membership.vbproj.GenerateResource.Cache
+E:\CGMEA\Membership\obj\Release\Membership.dll
+E:\CGMEA\Membership\obj\Release\Membership.xml
+E:\CGMEA\Membership\obj\Release\Membership.pdb

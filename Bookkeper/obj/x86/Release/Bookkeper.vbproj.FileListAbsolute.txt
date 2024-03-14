@@ -1,0 +1,300 @@
+E:\CGMEA\Bookkeper\bin\x86\Release\Bookkeper.exe
+E:\CGMEA\Bookkeper\bin\x86\Release\Bookkeper.pdb
+E:\CGMEA\Bookkeper\bin\x86\Release\Bookkeper.xml
+E:\CGMEA\Bookkeper\bin\x86\Release\Common.dll
+E:\CGMEA\Bookkeper\bin\x86\Release\DataAccess.dll
+E:\CGMEA\Bookkeper\bin\x86\Release\Location.dll
+E:\CGMEA\Bookkeper\bin\x86\Release\MySql.Data.dll
+E:\CGMEA\Bookkeper\bin\x86\Release\Personnel.dll
+E:\CGMEA\Bookkeper\bin\x86\Release\MyTemplates.exe
+E:\CGMEA\Bookkeper\bin\x86\Release\Power .NET 8.dll
+E:\CGMEA\Bookkeper\bin\x86\Release\Location.pdb
+E:\CGMEA\Bookkeper\bin\x86\Release\Location.xml
+E:\CGMEA\Bookkeper\bin\x86\Release\Personnel.pdb
+E:\CGMEA\Bookkeper\bin\x86\Release\Personnel.xml
+E:\CGMEA\Bookkeper\bin\x86\Release\DataAccess.pdb
+E:\CGMEA\Bookkeper\bin\x86\Release\DataAccess.xml
+E:\CGMEA\Bookkeper\bin\x86\Release\Common.pdb
+E:\CGMEA\Bookkeper\bin\x86\Release\Common.xml
+E:\CGMEA\Bookkeper\bin\x86\Release\MyTemplates.pdb
+E:\CGMEA\Bookkeper\bin\x86\Release\MyTemplates.xml
+E:\CGMEA\Bookkeper\obj\x86\Release\ResolveAssemblyReference.cache
+E:\CGMEA\Bookkeper\obj\x86\Release\Bookkeper.frmContributionType.resources
+E:\CGMEA\Bookkeper\obj\x86\Release\Bookkeper.frmContributionTypeFinder.resources
+E:\CGMEA\Bookkeper\obj\x86\Release\Bookkeper.Resources.resources
+E:\CGMEA\Bookkeper\obj\x86\Release\Bookkeper.vbproj.GenerateResource.Cache
+E:\CGMEA\Bookkeper\obj\x86\Release\Bookkeper.exe
+E:\CGMEA\Bookkeper\obj\x86\Release\Bookkeper.xml
+E:\CGMEA\Bookkeper\obj\x86\Release\Bookkeper.pdb
+E:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Bookkeper.dll
+E:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Bookkeper.pdb
+E:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Bookkeper.xml
+E:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Common.dll
+E:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\DataAccess.dll
+E:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Location.dll
+E:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\MySql.Data.dll
+E:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Personnel.dll
+E:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Utility.dll
+E:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\MyTemplates.exe
+E:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Location.pdb
+E:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Location.xml
+E:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Personnel.pdb
+E:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Personnel.xml
+E:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Common.pdb
+E:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Common.xml
+E:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\DataAccess.pdb
+E:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\DataAccess.xml
+E:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\MyTemplates.pdb
+E:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\MyTemplates.xml
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\ResolveAssemblyReference.cache
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmCrystalReportViewer.resources
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplication.resources
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationApproval.resources
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationApprovalFinder.resources
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationFinder.resources
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationRelease.resources
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationReleaseFinder.resources
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanCalculator.resources
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanRate.resources
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanRateFinder.resources
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberContribution.resources
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberContributionFinder.resources
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberContributionGeneration.resources
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmRevisedLoanRate.resources
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmTypeLoan.resources
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmTypeLoanFinder.resources
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmContributionType.resources
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmContributionTypeFinder.resources
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmRevisionFinder.resources
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmRevisionName.resources
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmrefVariable.resources
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmrefVariableFinder.resources
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.Resources.resources
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.vbproj.GenerateResource.Cache
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.dll
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.xml
+E:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Bookkeper.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Bookkeper.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Bookkeper.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Common.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\DataAccess.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Location.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\MySql.Data.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Personnel.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Utility.dll
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\MyTemplates.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Location.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Location.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Personnel.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Personnel.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Common.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Common.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\DataAccess.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\DataAccess.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\MyTemplates.pdb
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\MyTemplates.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmChangePassword.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmContributionAndPaymentSummary.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmCrystalReportViewer.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmExpenses.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmExpensesFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmFS.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmFSFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmFSReport.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplication.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationApproval.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationApprovalFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationRelease.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationReleaseFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanCalculator.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanChecksIssued.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanRate.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanRateFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberContribution.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberContributionFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberContributionGeneration.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberContributionUpdater.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberLoanPaymentGeneration.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmRevisedLoanRate.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmTypeLoan.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmTypeLoanFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmContributionType.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmContributionTypeFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmRevisionFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmRevisionName.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmrefVariable.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmrefVariableFinder.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.Resources.resources
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.vbproj.GenerateResource.Cache
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.exe
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.xml
+C:\Users\MIS_TL\Documents\Visual Studio 2008\Projects\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Bookkeper.exe
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Bookkeper.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Bookkeper.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Common.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\DataAccess.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Location.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\MySql.Data.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Personnel.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Utility.dll
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\MyTemplates.exe
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Location.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Location.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Personnel.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Personnel.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Common.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Common.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\DataAccess.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\DataAccess.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\MyTemplates.pdb
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\MyTemplates.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmChangePassword.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmContributionAndPaymentSummary.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmCrystalReportViewer.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmExpenses.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmExpensesFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmFS.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmFSFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmFSReport.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplication.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationApproval.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationApprovalFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationRelease.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationReleaseFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanCalculator.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanChecksIssued.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanRate.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanRateFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberContribution.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberContributionFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberContributionGeneration.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberContributionUpdater.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberLoanPaymentGeneration.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmRevisedLoanRate.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmTypeLoan.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmTypeLoanFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmContributionType.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmContributionTypeFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmRevisionFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmRevisionName.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmrefVariable.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmrefVariableFinder.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.Resources.resources
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.vbproj.GenerateResource.Cache
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.exe
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.xml
+C:\Users\MARC DANIOT\Desktop\CGMEA\DEVELOPMENT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.pdb
+D:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Bookkeper.dll
+D:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Bookkeper.pdb
+D:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Bookkeper.xml
+D:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Common.dll
+D:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\DataAccess.dll
+D:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Location.dll
+D:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Personnel.dll
+D:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Utility.dll
+D:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Microsoft.Office.Interop.Word.dll
+D:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\office.dll
+D:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\MyTemplates.dll
+D:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Microsoft.Vbe.Interop.dll
+D:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Location.pdb
+D:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Location.xml
+D:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Personnel.pdb
+D:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Personnel.xml
+D:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Common.pdb
+D:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\Common.xml
+D:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\DataAccess.pdb
+D:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\DataAccess.xml
+D:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\MyTemplates.pdb
+D:\CGMEA ALPH-ALPS\Bookkeper\bin\x86\Release\MyTemplates.xml
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\ResolveAssemblyReference.cache
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmChangePassword.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmContributionAndPaymentSummary.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmCrystalReportViewer.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmExpenses.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmExpensesFinder.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmFS.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmFSFinder.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmFSReport.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplication.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationApproval.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationApprovalFinder.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationFinder.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationRelease.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationReleaseFinder.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanCalculator.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanChecksIssued.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanPaymentUpdater.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanRate.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanRateFinder.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberContribution.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberContributionAndDrawing.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberContributionFinder.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberContributionGeneration.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberContributionSummary.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberContributionUpdater.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberLoanPaymentGeneration.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberWithdrawal.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberWithdrawalFinder.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmRevisedLoanRate.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmTypeLoan.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmTypeLoanFinder.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmContributionType.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmContributionTypeFinder.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmRevisionFinder.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmRevisionName.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmrefVariable.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmrefVariableFinder.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.Resources.resources
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.vbproj.GenerateResource.Cache
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.dll
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.xml
+D:\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.pdb
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.vbprojResolveAssemblyReference.cache
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmChangePassword.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmContributionAndPaymentSummary.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmCrystalReportViewer.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmExpenses.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmExpensesFinder.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmFS.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmFSFinder.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmFSReport.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplication.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationApproval.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationApprovalFinder.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationFinder.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationRelease.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanApplicationReleaseFinder.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanCalculator.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanChecksIssued.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanPaymentUpdater.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanRate.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmLoanRateFinder.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberContribution.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberContributionAndDrawing.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberContributionFinder.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberContributionGeneration.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberContributionSummary.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberContributionUpdater.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberLoanPaymentGeneration.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberWithdrawal.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmMemberWithdrawalFinder.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmRevisedLoanRate.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmTypeLoan.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmTypeLoanFinder.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmContributionType.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmContributionTypeFinder.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmRevisionFinder.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmRevisionName.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmrefVariable.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.frmrefVariableFinder.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.Resources.resources
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.vbproj.GenerateResource.Cache
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.dll
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.xml
+D:\PROJECT\Application\CGMEA PROJECT\CGMEA ALPH-ALPS\Bookkeper\obj\x86\Release\Bookkeper.pdb

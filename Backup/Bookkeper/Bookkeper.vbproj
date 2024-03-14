@@ -1,0 +1,553 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AE2C9684-34AC-48B0-A111-94791EB16C56}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <StartupObject>
+    </StartupObject>
+    <RootNamespace>Bookkeper</RootNamespace>
+    <AssemblyName>Bookkeper</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Bookkeper.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Bookkeper.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>Bookkeper.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>Bookkeper.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=5.2.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="Power .NET 8, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\clsBookkeper.vb" />
+    <Compile Include="Classes\clsContributionAndPayment.vb" />
+    <Compile Include="Classes\clsContributionDetails.vb" />
+    <Compile Include="Classes\clsContributionGeneration.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\clsContributionType.vb" />
+    <Compile Include="Classes\clsGeneral.vb" />
+    <Compile Include="Classes\clsLoanApplication.vb" />
+    <Compile Include="Classes\clsLoanApplicationApproval.vb" />
+    <Compile Include="Classes\clsLoanApplicationDetails.vb" />
+    <Compile Include="Classes\clsLoanApplicationRelease.vb" />
+    <Compile Include="Classes\clsLoanPaymentGeneration.vb" />
+    <Compile Include="Classes\clsLoanPaymentUpdater.vb" />
+    <Compile Include="Classes\clsMemberContribution.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\clsMemberContributionDetails.vb" />
+    <Compile Include="Classes\clsMemberContributionUpdater.vb" />
+    <Compile Include="Classes\clsMemberLoanPayment.vb" />
+    <Compile Include="Classes\clsMemberLoanPaymentDetails.vb" />
+    <Compile Include="Classes\clsTypeLoan.vb" />
+    <Compile Include="Classes\clsWithdrawal.vb" />
+    <Compile Include="Forms\frmChangePassword.Designer.vb">
+      <DependentUpon>frmChangePassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmContributionAndPaymentSummary.Designer.vb">
+      <DependentUpon>frmContributionAndPaymentSummary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmContributionAndPaymentSummary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmCrystalReportViewer.designer.vb">
+      <DependentUpon>frmCrystalReportViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCrystalReportViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmExpenses.Designer.vb">
+      <DependentUpon>frmExpenses.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmExpenses.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmExpensesFinder.Designer.vb">
+      <DependentUpon>frmExpensesFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmExpensesFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmFS.Designer.vb">
+      <DependentUpon>frmFS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmFS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmFSFinder.Designer.vb">
+      <DependentUpon>frmFSFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmFSFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmFSReport.Designer.vb">
+      <DependentUpon>frmFSReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmFSReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLoanApplication.Designer.vb">
+      <DependentUpon>frmLoanApplication.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLoanApplication.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLoanApplicationApproval.Designer.vb">
+      <DependentUpon>frmLoanApplicationApproval.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLoanApplicationApproval.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLoanApplicationApprovalFinder.Designer.vb">
+      <DependentUpon>frmLoanApplicationApprovalFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLoanApplicationApprovalFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLoanApplicationFinder.Designer.vb">
+      <DependentUpon>frmLoanApplicationFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLoanApplicationFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLoanApplicationRelease.Designer.vb">
+      <DependentUpon>frmLoanApplicationRelease.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLoanApplicationRelease.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLoanApplicationReleaseFinder.Designer.vb">
+      <DependentUpon>frmLoanApplicationReleaseFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLoanApplicationReleaseFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLoanCalculator.Designer.vb">
+      <DependentUpon>frmLoanCalculator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLoanCalculator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLoanChecksIssued.Designer.vb">
+      <DependentUpon>frmLoanChecksIssued.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLoanChecksIssued.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLoanPaymentUpdater.Designer.vb">
+      <DependentUpon>frmLoanPaymentUpdater.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLoanPaymentUpdater.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLoanRate.Designer.vb">
+      <DependentUpon>frmLoanRate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLoanRate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmLoanRateFinder.Designer.vb">
+      <DependentUpon>frmLoanRateFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmLoanRateFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMemberContribution.Designer.vb">
+      <DependentUpon>frmMemberContribution.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMemberContribution.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMemberContributionAndDrawing.Designer.vb">
+      <DependentUpon>frmMemberContributionAndDrawing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMemberContributionAndDrawing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMemberContributionFinder.Designer.vb">
+      <DependentUpon>frmMemberContributionFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMemberContributionFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMemberContributionGeneration.Designer.vb">
+      <DependentUpon>frmMemberContributionGeneration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMemberContributionGeneration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMemberContributionSummary.Designer.vb">
+      <DependentUpon>frmMemberContributionSummary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMemberContributionSummary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMemberContributionUpdater.Designer.vb">
+      <DependentUpon>frmMemberContributionUpdater.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMemberContributionUpdater.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMemberLoanPaymentGeneration.Designer.vb">
+      <DependentUpon>frmMemberLoanPaymentGeneration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMemberLoanPaymentGeneration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMemberWithdrawal.Designer.vb">
+      <DependentUpon>frmMemberWithdrawal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMemberWithdrawal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMemberWithdrawalFinder.Designer.vb">
+      <DependentUpon>frmMemberWithdrawalFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMemberWithdrawalFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmRevisedLoanRate.Designer.vb">
+      <DependentUpon>frmRevisedLoanRate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmRevisedLoanRate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmTypeLoan.Designer.vb">
+      <DependentUpon>frmTypeLoan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmTypeLoan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmTypeLoanFinder.Designer.vb">
+      <DependentUpon>frmTypeLoanFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmTypeLoanFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmContributionType.Designer.vb">
+      <DependentUpon>frmContributionType.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmContributionType.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmContributionTypeFinder.Designer.vb">
+      <DependentUpon>frmContributionTypeFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmContributionTypeFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\revisionName\frmRevisionFinder.Designer.vb">
+      <DependentUpon>frmRevisionFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\revisionName\frmRevisionFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\revisionName\frmRevisionName.Designer.vb">
+      <DependentUpon>frmRevisionName.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\revisionName\frmRevisionName.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\variableName\frmrefVariable.Designer.vb">
+      <DependentUpon>frmrefVariable.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\variableName\frmrefVariable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\variableName\frmrefVariableFinder.Designer.vb">
+      <DependentUpon>frmrefVariableFinder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\variableName\frmrefVariableFinder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\AssemblyInfo.vb" />
+    <Compile Include="Modules\modPublic.vb" />
+    <Compile Include="Modules\modPublics.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\frmChangePassword.resx">
+      <DependentUpon>frmChangePassword.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmContributionAndPaymentSummary.resx">
+      <DependentUpon>frmContributionAndPaymentSummary.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCrystalReportViewer.resx">
+      <DependentUpon>frmCrystalReportViewer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmExpenses.resx">
+      <DependentUpon>frmExpenses.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmExpensesFinder.resx">
+      <DependentUpon>frmExpensesFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmFS.resx">
+      <DependentUpon>frmFS.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmFSFinder.resx">
+      <DependentUpon>frmFSFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmFSReport.resx">
+      <DependentUpon>frmFSReport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLoanApplication.resx">
+      <DependentUpon>frmLoanApplication.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLoanApplicationApproval.resx">
+      <DependentUpon>frmLoanApplicationApproval.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLoanApplicationApprovalFinder.resx">
+      <DependentUpon>frmLoanApplicationApprovalFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLoanApplicationFinder.resx">
+      <DependentUpon>frmLoanApplicationFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLoanApplicationRelease.resx">
+      <DependentUpon>frmLoanApplicationRelease.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLoanApplicationReleaseFinder.resx">
+      <DependentUpon>frmLoanApplicationReleaseFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLoanCalculator.resx">
+      <DependentUpon>frmLoanCalculator.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLoanChecksIssued.resx">
+      <DependentUpon>frmLoanChecksIssued.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLoanPaymentUpdater.resx">
+      <DependentUpon>frmLoanPaymentUpdater.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLoanRate.resx">
+      <DependentUpon>frmLoanRate.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmLoanRateFinder.resx">
+      <DependentUpon>frmLoanRateFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMemberContribution.resx">
+      <DependentUpon>frmMemberContribution.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMemberContributionAndDrawing.resx">
+      <DependentUpon>frmMemberContributionAndDrawing.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMemberContributionFinder.resx">
+      <DependentUpon>frmMemberContributionFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMemberContributionGeneration.resx">
+      <DependentUpon>frmMemberContributionGeneration.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMemberContributionSummary.resx">
+      <DependentUpon>frmMemberContributionSummary.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMemberContributionUpdater.resx">
+      <DependentUpon>frmMemberContributionUpdater.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMemberLoanPaymentGeneration.resx">
+      <DependentUpon>frmMemberLoanPaymentGeneration.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMemberWithdrawal.resx">
+      <DependentUpon>frmMemberWithdrawal.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMemberWithdrawalFinder.resx">
+      <DependentUpon>frmMemberWithdrawalFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmRevisedLoanRate.resx">
+      <DependentUpon>frmRevisedLoanRate.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmTypeLoan.resx">
+      <DependentUpon>frmTypeLoan.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmTypeLoanFinder.resx">
+      <DependentUpon>frmTypeLoanFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmContributionType.resx">
+      <DependentUpon>frmContributionType.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmContributionTypeFinder.resx">
+      <DependentUpon>frmContributionTypeFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\revisionName\frmRevisionFinder.resx">
+      <DependentUpon>frmRevisionFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\revisionName\frmRevisionName.resx">
+      <DependentUpon>frmRevisionName.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\variableName\frmrefVariable.resx">
+      <DependentUpon>frmrefVariable.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\variableName\frmrefVariableFinder.resx">
+      <DependentUpon>frmrefVariableFinder.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="Forms\typeofloans" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.vbproj">
+      <Project>{D1268F11-E19A-4416-9545-CAA51F4C43E9}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataAccess\DataAccess.vbproj">
+      <Project>{1C85BE8B-6D98-4624-AFF0-935B61BC90A2}</Project>
+      <Name>DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Location\Location.vbproj">
+      <Project>{44348B6A-181F-487D-A78C-AC9639854852}</Project>
+      <Name>Location</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Personnel\Personnel.vbproj">
+      <Project>{BB753093-90B5-42BB-A30D-E88A8A4A6124}</Project>
+      <Name>Personnel</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utility\Utility.vbproj">
+      <Project>{08206596-09E3-43FC-B930-ABDED3B0E36E}</Project>
+      <Name>Utility</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
